@@ -7,6 +7,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Binary Search
 |  |
 | ------- |
@@ -31,10 +32,12 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Quickselect
 |  |
 | ------- |
