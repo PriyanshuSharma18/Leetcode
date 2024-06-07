@@ -42,3 +42,11 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+# String
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
