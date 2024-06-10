@@ -6,6 +6,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -56,3 +57,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
+# Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
