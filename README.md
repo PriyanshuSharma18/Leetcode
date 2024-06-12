@@ -8,6 +8,7 @@ Leetcode solved like a champ❤️🙌
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -15,6 +16,7 @@ Leetcode solved like a champ❤️🙌
 # Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 # Stack
 |  |
@@ -36,6 +38,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Heap (Priority Queue)
@@ -50,6 +53,7 @@ Leetcode solved like a champ❤️🙌
 # Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # String
@@ -61,6 +65,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 # Math
 |  |
 | ------- |
