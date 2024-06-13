@@ -8,6 +8,7 @@ Leetcode solved like a champ❤️🙌
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
@@ -65,6 +66,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 # Math
 |  |
