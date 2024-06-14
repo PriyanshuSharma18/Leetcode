@@ -11,6 +11,7 @@ Leetcode solved like a champ❤️🙌
 | [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -19,6 +20,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0792-binary-search) |
 # Stack
 |  |
 | ------- |
