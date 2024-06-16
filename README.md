@@ -26,6 +26,7 @@ Leetcode solved like a champ❤️🙌
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 # Monotonic Stack
 |  |
@@ -65,6 +66,7 @@ Leetcode solved like a champ❤️🙌
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # Two Pointers
 |  |
