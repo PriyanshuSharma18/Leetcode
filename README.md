@@ -13,6 +13,7 @@ Leetcode solved like a champ❤️🙌
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -41,17 +42,20 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 # Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Quickselect
 |  |
@@ -82,4 +86,17 @@ Leetcode solved like a champ❤️🙌
 # Counting Sort
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
+# Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
+# Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
