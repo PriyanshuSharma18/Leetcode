@@ -7,6 +7,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -22,6 +23,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0792-binary-search) |
