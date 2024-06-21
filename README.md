@@ -74,12 +74,14 @@ Leetcode solved like a champ❤️🙌
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
@@ -106,3 +108,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
