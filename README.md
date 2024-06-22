@@ -9,6 +9,7 @@ Leetcode solved like a champ❤️🙌
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
@@ -77,6 +79,7 @@ Leetcode solved like a champ❤️🙌
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # Two Pointers
 |  |
@@ -112,3 +115,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
+# Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
