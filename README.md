@@ -15,6 +15,7 @@ Leetcode solved like a champ❤️🙌
 | [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0456-132-pattern) |
+| [0561-array-partition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
@@ -54,6 +55,7 @@ Leetcode solved like a champ❤️🙌
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +99,7 @@ Leetcode solved like a champ❤️🙌
 # Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1217-relative-sort-array) |
 # Merge Sort
@@ -119,3 +122,4 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0561-array-partition) |
