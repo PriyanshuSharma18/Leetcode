@@ -82,6 +82,7 @@ Leetcode solved like a champ❤️🙌
 | [0008-string-to-integer-atoi](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
+| [0481-magical-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0481-magical-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # Two Pointers
 |  |
@@ -92,6 +93,7 @@ Leetcode solved like a champ❤️🙌
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0481-magical-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0481-magical-string) |
 # Math
 |  |
 | ------- |
