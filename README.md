@@ -100,6 +100,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0189-rotate-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 # Counting Sort
 |  |
 | ------- |
@@ -122,8 +123,17 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 # Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0561-array-partition) |
+# Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+# Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
