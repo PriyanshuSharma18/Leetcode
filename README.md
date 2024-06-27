@@ -85,6 +85,7 @@ Leetcode solved like a champ❤️🙌
 | [0020-valid-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0481-magical-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0481-magical-string) |
+| [0742-to-lower-case](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0742-to-lower-case) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 # Two Pointers
 |  |
