@@ -138,3 +138,11 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
