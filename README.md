@@ -146,3 +146,10 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0038-count-and-say) |
+<!---LeetCode Topics End-->
