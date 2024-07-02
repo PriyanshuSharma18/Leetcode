@@ -152,4 +152,12 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0038-count-and-say) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
