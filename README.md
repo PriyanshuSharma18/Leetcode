@@ -153,6 +153,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0038-count-and-say](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
+| [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
+| [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 ## Linked List
 |  |
 | ------- |
