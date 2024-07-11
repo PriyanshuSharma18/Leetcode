@@ -151,6 +151,7 @@ Leetcode solved like a champ❤️🙌
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
@@ -183,6 +184,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
@@ -228,4 +230,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
