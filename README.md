@@ -169,6 +169,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
+| [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Leetcode solved like a champ❤️🙌
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
