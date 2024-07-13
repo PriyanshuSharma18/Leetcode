@@ -1,43 +1,48 @@
 class Solution {
-    void getCount(string str, string sub, int& cnt1, int& cnt2) {
-    
-        char first = sub[0], second = sub[1];
-        int i = 1;
-        while(i < str.length()) {
-            if(i > 0 && str[i-1] == first && str[i] == second) {
-                cnt1++;
-                str.erase(i-1, 2);
-                i--;
-                continue;
-            }
-            i++;
-        }
-
-        i = 1;
-        while(i < str.length()) {
-            if(i > 0 && str[i-1] == second && str[i] == first) {
-                cnt2++;
-                str.erase(i-1, 2);
-                i--;
-                continue;
-            }
-            i++;
-        }
-        return;
-    }
 public:
     int maximumGain(string s, int x, int y) {
-        
-        int mxABcnt = 0;
-        int mxBAcnt = 0;
-        int minBAcnt = 0;
-        int minABcnt= 0;
+        vector<char> v, v1;
+        int ans = 0;
+        // First pass to remove the optimal substring
+        for (auto a : s) {
+            if (!v.empty()) {
+                if (x > y) {
+                    if (v.back() == 'a' && a == 'b') {
+                        ans += x;
+                        v.pop_back();
+                    } else
+                        v.push_back(a);
+                } else {
+                    if (v.back() == 'b' && a == 'a') {
+                        ans += y;
+                        v.pop_back();
+                    } else
+                        v.push_back(a);
+                }
+            } else {
+                v.push_back(a);
+            }
+        }
+        // Second pass to remove the remaining optimal substring
+        for (auto a : v)
+            if (!v1.empty()) {
+                if (x < y) {
+                    if (v1.back() == 'a' && a == 'b') {
+                        ans += x;
+                        v1.pop_back();
+                    } else
+                        v1.push_back(a);
+                } else {
+                    if (v1.back() == 'b' && a == 'a') {
+                        ans += y;
+                        v1.pop_back();
+                    } else
+                        v1.push_back(a);
+                }
+            } else {
+                v1.push_back(a);
+            }
 
-        getCount(s, "ab", mxABcnt, minBAcnt);
-        getCount(s, "ba", mxBAcnt, minABcnt);
-
-        int operation1 = mxABcnt * x + minBAcnt * y;
-        int operation2 = mxBAcnt * y + minABcnt * x;
-        return max(operation1, operation2);
+        return ans;
     }
 };
