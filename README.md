@@ -161,6 +161,7 @@ Leetcode solved like a champ❤️🙌
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
@@ -184,6 +185,7 @@ Leetcode solved like a champ❤️🙌
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -196,6 +198,7 @@ Leetcode solved like a champ❤️🙌
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
