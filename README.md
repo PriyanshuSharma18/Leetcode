@@ -164,6 +164,7 @@ Leetcode solved like a champ❤️🙌
 | [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
