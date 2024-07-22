@@ -157,6 +157,7 @@ Leetcode solved like a champ❤️🙌
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 ## Math
 |  |
@@ -183,6 +184,7 @@ Leetcode solved like a champ❤️🙌
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 ## Linked List
 |  |
@@ -214,6 +216,7 @@ Leetcode solved like a champ❤️🙌
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -225,6 +228,7 @@ Leetcode solved like a champ❤️🙌
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
+| [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
