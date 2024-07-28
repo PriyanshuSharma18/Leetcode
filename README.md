@@ -255,6 +255,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,6 +292,7 @@ Leetcode solved like a champ❤️🙌
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -300,5 +302,6 @@ Leetcode solved like a champ❤️🙌
 ## Shortest Path
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
