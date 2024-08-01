@@ -169,6 +169,7 @@ Leetcode solved like a champ❤️🙌
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
