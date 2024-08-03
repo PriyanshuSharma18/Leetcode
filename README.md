@@ -188,6 +188,7 @@ Leetcode solved like a champ❤️🙌
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
@@ -222,6 +223,7 @@ Leetcode solved like a champ❤️🙌
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -240,6 +242,7 @@ Leetcode solved like a champ❤️🙌
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
