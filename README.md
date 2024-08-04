@@ -220,6 +220,7 @@ Leetcode solved like a champ❤️🙌
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -335,5 +336,6 @@ Leetcode solved like a champ❤️🙌
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
