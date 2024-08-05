@@ -158,6 +158,7 @@ Leetcode solved like a champ❤️🙌
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -189,6 +190,7 @@ Leetcode solved like a champ❤️🙌
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
@@ -228,6 +230,7 @@ Leetcode solved like a champ❤️🙌
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -253,6 +256,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Tree
 |  |
 | ------- |
