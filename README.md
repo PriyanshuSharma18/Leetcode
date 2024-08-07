@@ -355,4 +355,16 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
