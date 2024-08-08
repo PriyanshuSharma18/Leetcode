@@ -156,6 +156,7 @@ Leetcode solved like a champ❤️🙌
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -353,6 +354,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
 |  |
