@@ -1,22 +1,22 @@
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        int res=0;
-        map<char,int> mp;
+        int count=0; // counter for save number of vowel in substr
+        
+        //count first substring
         for(int i=0;i<k;i++){
-            if(s[i]=='a' or s[i]=='e' or s[i]=='i' or s[i]=='o' or s[i]=='u'){
-                mp[s[i]]++;
-            }
+            if(isVowel(s[i])) count++;
         }
-        res=max(res,mp['a']+mp['e']+mp['i']+mp['o']+mp['u']);
-        int j=0;
-        for(int i=k;i<(int)s.size();i++){
-            mp[s[j]]--;
-            mp[s[j]]=max(0,mp[s[j]]);
-            mp[s[i]]++;
-            res=max(res,mp['a']+mp['e']+mp['i']+mp['o']+mp['u']);
-            j++;
+
+        int ans=count; // variable for saving max counter
+        for(int i=k;i<s.size();i++){
+            if(isVowel(s[i-k])) count--; //if first element of window is vowel then we ** minus 1**
+            if(isVowel(s[i])) count++; // if next element is vowel then we **add 1**
+            ans=max(ans,count); // update answer
         }
-        return res;
+        return ans;
+    }
+    bool isVowel(char a){
+        return a=='u' || a=='e'|| a=='o'|| a=='a'|| a=='i';
     }
 };
