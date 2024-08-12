@@ -318,6 +318,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
@@ -412,4 +413,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
