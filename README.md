@@ -293,6 +293,7 @@ Leetcode solved like a champ❤️🙌
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -302,6 +303,7 @@ Leetcode solved like a champ❤️🙌
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -310,6 +312,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
@@ -319,6 +322,7 @@ Leetcode solved like a champ❤️🙌
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
