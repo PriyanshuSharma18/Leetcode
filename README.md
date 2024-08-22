@@ -190,6 +190,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
+| [0476-number-complement](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
