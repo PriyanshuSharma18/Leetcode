@@ -256,6 +256,7 @@ Leetcode solved like a champ❤️🙌
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -445,6 +446,7 @@ Leetcode solved like a champ❤️🙌
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
