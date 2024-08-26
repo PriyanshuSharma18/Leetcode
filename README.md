@@ -317,6 +317,7 @@ Leetcode solved like a champ❤️🙌
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0904-leaf-similar-trees) |
@@ -332,6 +333,7 @@ Leetcode solved like a champ❤️🙌
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -383,6 +385,7 @@ Leetcode solved like a champ❤️🙌
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
