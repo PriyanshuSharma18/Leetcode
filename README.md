@@ -288,6 +288,7 @@ Leetcode solved like a champ❤️🙌
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
+| [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -306,6 +307,7 @@ Leetcode solved like a champ❤️🙌
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
+| [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -400,6 +402,7 @@ Leetcode solved like a champ❤️🙌
 | [0890-lemonade-change](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -493,6 +496,7 @@ Leetcode solved like a champ❤️🙌
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Interactive
 |  |
 | ------- |
