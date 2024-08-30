@@ -428,6 +428,7 @@ Leetcode solved like a champ❤️🙌
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -438,6 +439,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
@@ -506,6 +508,7 @@ Leetcode solved like a champ❤️🙌
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Interactive
 |  |
 | ------- |
