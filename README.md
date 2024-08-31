@@ -194,6 +194,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
@@ -257,6 +258,7 @@ Leetcode solved like a champ❤️🙌
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0238-product-of-array-except-self) |
