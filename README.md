@@ -270,6 +270,7 @@ Leetcode solved like a champ❤️🙌
 | [0162-find-peak-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -420,6 +421,7 @@ Leetcode solved like a champ❤️🙌
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
