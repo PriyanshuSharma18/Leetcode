@@ -242,6 +242,7 @@ Leetcode solved like a champ❤️🙌
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -265,6 +266,7 @@ Leetcode solved like a champ❤️🙌
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
@@ -424,6 +426,7 @@ Leetcode solved like a champ❤️🙌
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0890-lemonade-change) |
