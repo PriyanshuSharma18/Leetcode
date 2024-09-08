@@ -242,6 +242,7 @@ Leetcode solved like a champ❤️🙌
 | [0002-add-two-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0725-split-linked-list-in-parts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
