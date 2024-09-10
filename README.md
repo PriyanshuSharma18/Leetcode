@@ -299,6 +299,7 @@ Leetcode solved like a champ❤️🙌
 | [0906-walking-robot-simulation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -404,6 +405,7 @@ Leetcode solved like a champ❤️🙌
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -468,6 +470,7 @@ Leetcode solved like a champ❤️🙌
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
