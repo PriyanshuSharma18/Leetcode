@@ -159,6 +159,7 @@ Leetcode solved like a champ❤️🙌
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -291,6 +292,7 @@ Leetcode solved like a champ❤️🙌
 | [0238-product-of-array-except-self](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -386,6 +388,7 @@ Leetcode solved like a champ❤️🙌
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -403,6 +406,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -482,6 +486,7 @@ Leetcode solved like a champ❤️🙌
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -496,6 +501,7 @@ Leetcode solved like a champ❤️🙌
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -553,6 +559,7 @@ Leetcode solved like a champ❤️🙌
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2035-count-sub-islands) |
