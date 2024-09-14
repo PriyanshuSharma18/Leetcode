@@ -208,6 +208,7 @@ Leetcode solved like a champ❤️🙌
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Leetcode solved like a champ❤️🙌
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
@@ -616,4 +618,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
