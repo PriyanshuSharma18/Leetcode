@@ -162,6 +162,7 @@ Leetcode solved like a champ❤️🙌
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0649-dota2-senate) |
@@ -193,6 +194,7 @@ Leetcode solved like a champ❤️🙌
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -303,6 +305,7 @@ Leetcode solved like a champ❤️🙌
 | [0334-increasing-triplet-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -361,6 +364,7 @@ Leetcode solved like a champ❤️🙌
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
