@@ -480,6 +480,7 @@ Leetcode solved like a champ❤️🙌
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -576,6 +577,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -586,6 +588,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Union Find
 |  |
@@ -636,4 +639,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
