@@ -1,15 +1,28 @@
 class Solution {
- public:
-  string largestNumber(vector<int>& nums) {
-    string ans;
+public:
+    string largestNumber(vector<int>& nums) {
+        // Convert integers to strings
+        vector<string> array;
+        for (int num : nums) {
+            array.push_back(to_string(num));
+        }
 
-    ranges::sort(nums, [](int a, int b) {
-      return to_string(a) + to_string(b) > to_string(b) + to_string(a);
-    });
+        // Custom comparator for sorting
+        sort(array.begin(), array.end(), [](const string &a, const string &b) {
+            return (b + a) < (a + b);
+        });
 
-    for (const int num : nums)
-      ans += to_string(num);
+        // Handle the case where the largest number is "0"
+        if (array[0] == "0") {
+            return "0";
+        }
 
-    return ans[0] == '0' ? "0" : ans;
-  }
+        // Build the largest number from the sorted array
+        string largest;
+        for (const string &num : array) {
+            largest += num;
+        }
+
+        return largest;
+    }
 };
