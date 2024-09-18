@@ -193,6 +193,7 @@ Leetcode solved like a champ❤️🙌
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -541,6 +542,7 @@ Leetcode solved like a champ❤️🙌
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
@@ -647,4 +649,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
