@@ -420,6 +420,7 @@ Leetcode solved like a champ❤️🙌
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -674,4 +675,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
