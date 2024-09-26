@@ -157,6 +157,7 @@ Leetcode solved like a champ❤️🙌
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -241,6 +242,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
@@ -602,6 +604,7 @@ Leetcode solved like a champ❤️🙌
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
@@ -690,6 +693,7 @@ Leetcode solved like a champ❤️🙌
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
