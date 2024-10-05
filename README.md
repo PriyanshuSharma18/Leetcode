@@ -168,6 +168,7 @@ Leetcode solved like a champ❤️🙌
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
@@ -246,6 +247,7 @@ Leetcode solved like a champ❤️🙌
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -292,6 +294,7 @@ Leetcode solved like a champ❤️🙌
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -594,6 +597,7 @@ Leetcode solved like a champ❤️🙌
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
