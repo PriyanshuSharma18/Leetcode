@@ -188,6 +188,7 @@ Leetcode solved like a champ❤️🙌
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -238,6 +239,7 @@ Leetcode solved like a champ❤️🙌
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -520,6 +522,7 @@ Leetcode solved like a champ❤️🙌
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
