@@ -309,6 +309,7 @@ Leetcode solved like a champ❤️🙌
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -383,6 +384,7 @@ Leetcode solved like a champ❤️🙌
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -412,6 +414,7 @@ Leetcode solved like a champ❤️🙌
 | [1777-determine-if-two-strings-are-close](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2846-robot-collisions) |
@@ -547,6 +550,7 @@ Leetcode solved like a champ❤️🙌
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -632,6 +636,7 @@ Leetcode solved like a champ❤️🙌
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -677,6 +682,7 @@ Leetcode solved like a champ❤️🙌
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Interactive
