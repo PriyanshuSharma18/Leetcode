@@ -173,6 +173,7 @@ Leetcode solved like a champ❤️🙌
 | [0649-dota2-senate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -568,6 +569,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
