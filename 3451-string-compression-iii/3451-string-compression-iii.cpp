@@ -1,32 +1,29 @@
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     string compressedString(string word) {
-        string ans = "";
-        char prev = word[0];
-        int count = 1;
-
-        for (int i = 1; i < word.size(); i++) {
-            if (prev != word[i]) {
-                ans += to_string(count);
-                ans += prev;
-                count = 1;
-                prev = word[i];
-            } else {
-                if (count == 9) {
-                    ans += to_string(count);
-                    ans += prev;
-                    count = 1;
-                } else {
-                    count += 1;
+        vector<int>fr(26);
+        int n=word.size();
+        string h;
+        char p='U';
+        int c=0;
+        for(int i=0;i<n;i++)
+        {
+            
+            if(word[i]!=p||c==9)
+            {
+                c=1;
+                p=word[i];
+                while(i+1<n&&c<9&&p==word[i+1])
+                {
+                    i++;
+                    c++;
                 }
+                char y=(char)(c+'0');
+                h+=y;
+                h+=p;
+                
             }
         }
-        ans += to_string(count);
-        ans += prev;
-
-        return ans;
+        return h;
     }
 };
