@@ -200,6 +200,7 @@ Leetcode solved like a champ❤️🙌
 | [2727-number-of-senior-citizens](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
