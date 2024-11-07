@@ -241,6 +241,7 @@ Leetcode solved like a champ❤️🙌
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
@@ -288,6 +289,7 @@ Leetcode solved like a champ❤️🙌
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -408,6 +410,7 @@ Leetcode solved like a champ❤️🙌
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -465,6 +468,7 @@ Leetcode solved like a champ❤️🙌
 | [1777-determine-if-two-strings-are-close](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
