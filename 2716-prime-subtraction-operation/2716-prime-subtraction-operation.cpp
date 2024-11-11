@@ -1,50 +1,32 @@
 class Solution {
-public:
-    bool primeSubOperation(vector<int>& nums) {
-        int maxElement = getMaxElement(nums);
-        
-        // Create Sieve of Eratosthenes array to identify prime numbers
-        vector<bool> sieve(maxElement + 1, true);
-        sieve[1] = false;
-        for (int i = 2; i <= sqrt(maxElement + 1); i++) {
-            if (sieve[i]) {
-                for (int j = i * i; j <= maxElement; j += i) {
-                    sieve[j] = false;
-                }
+    vector<int> sieve(){
+        vector<int> prime;
+        int isPrime[1002];
+        memset(isPrime, 1, sizeof(isPrime));
+        isPrime[1] = 0;
+        for(int i=2; i<1002; i++){
+            if(isPrime[i]){
+                prime.push_back(i);
+                for(int j=i*i; j<1002; j+=i)
+                    isPrime[j] = 0;
             }
         }
-        
-        // Check if array can be made strictly increasing by subtracting prime numbers
-        int currValue = 1;
-        int i = 0;
-        while (i < nums.size()) {
-            int difference = nums[i] - currValue;
-            
-            // Return false if current number is already smaller than required value
-            if (difference < 0) {
+        return prime;
+    }
+public:
+    bool primeSubOperation(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> prime = sieve();
+        for(int i=n-2; i>=0; i--){
+            if(nums[i] < nums[i+1]) continue;
+            int diff = nums[i]-nums[i+1];
+            auto it = upper_bound(prime.begin(), prime.end(), diff);
+            if(it==prime.end() || *it >= nums[i]){
                 return false;
             }
-            
-            // Move to next number if difference is prime or zero
-            if (sieve[difference] == true || difference == 0) {
-                i++;
-                currValue++;
-            } else {
-                currValue++;
-            }
+            nums[i] -= *it;
         }
         return true;
     }
-    
-private:
-    // Helper method to find maximum element in array
-    int getMaxElement(vector<int>& nums) {
-        int max = -1;
-        for (int num : nums) {
-            if (num > max) {
-                max = num;
-            }
-        }
-        return max;
-    }
 };
+auto speedup = [](){ios::sync_with_stdio(0); cin.tie(0); cout.tie(0); return 0;}();
