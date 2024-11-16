@@ -442,6 +442,7 @@ Leetcode solved like a champ❤️🙌
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -722,6 +723,7 @@ Leetcode solved like a champ❤️🙌
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
