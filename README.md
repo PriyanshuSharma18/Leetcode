@@ -379,6 +379,7 @@ Leetcode solved like a champ❤️🙌
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0729-my-calendar-i) |
+| [0787-sliding-puzzle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -555,6 +556,7 @@ Leetcode solved like a champ❤️🙌
 | [0199-binary-tree-right-side-view](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0547-number-of-provinces) |
+| [0787-sliding-puzzle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1036-rotting-oranges) |
@@ -661,6 +663,7 @@ Leetcode solved like a champ❤️🙌
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
