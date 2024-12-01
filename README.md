@@ -286,6 +286,7 @@ Leetcode solved like a champ❤️🙌
 | [1256-rank-transform-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -332,6 +333,7 @@ Leetcode solved like a champ❤️🙌
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -400,6 +402,7 @@ Leetcode solved like a champ❤️🙌
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -477,6 +480,7 @@ Leetcode solved like a champ❤️🙌
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -607,6 +611,7 @@ Leetcode solved like a champ❤️🙌
 | [0729-my-calendar-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
