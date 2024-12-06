@@ -1,20 +1,29 @@
 class Solution {
 public:
     int maxCount(vector<int>& banned, int n, int maxSum) {
-        // Create a set to mark banned numbers
-        unordered_set<int> bannedSet(banned.begin(), banned.end());
-        
-        long long sum = 0; // Track cumulative sum
-        int count = 0;     // Track count of valid numbers
-
-        // Iterate through 1 to n
-        for (int i = 1; i <= n; i++) {
-            if (bannedSet.count(i)) continue; // Skip banned numbers
-            sum += i; // Add current number to the sum
-            if (sum > maxSum) break; // Stop if sum exceeds maxSum
-            count++; // Increment count of valid numbers
+        int cnt = 0;
+        sort(banned.begin(), banned.end());
+        for(int i=1,j=0; i<=n; i++){
+            if(maxSum - i < 0){
+                break;
+            }
+            while(j<banned.size() && banned[j] < i){
+                j++;
+            }
+            if(j<banned.size() && banned[j] == i){
+                j++;
+                continue;
+            }
+            cnt++;
+            maxSum -= i;
         }
-
-        return count; // Return the count of valid numbers
+        return cnt;
     }
 };
+
+
+
+
+
+
+
