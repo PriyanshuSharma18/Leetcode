@@ -1,26 +1,23 @@
 class Solution {
 public:
-    #define ll long long
     long long findScore(vector<int>& nums) {
+        long long res = 0;
         int n = nums.size();
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        for (int i = 0; i < nums.size(); i++) {
-            pq.push({nums[i], i});
-        }
-        ll sum = 0;
-        vector<int> vis(nums.size());
-        while (!pq.empty()) {
-            if (vis[pq.top().second]) {
-                pq.pop();
-            } else {
-                int ind = pq.top().second;
-                sum += pq.top().first;
-                pq.pop();
-                vis[ind] = 1;
-                if (ind - 1 >= 0) vis[ind - 1] = 1;
-                if (ind + 1 < n) vis[ind + 1] = 1;
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i] <= nums[i + 1]) {
+                res += nums[i];
+                nums[i + 1] = INT_MAX;
+                nums[i] = INT_MAX;
+                nums[max(i - 1, 0)] = INT_MAX;
             }
         }
-        return sum;
+        for (int i = n - 1; i > 0; i--) {
+            if (nums[i] < nums[i - 1]) {
+                res += nums[i];
+                nums[i - 1] = INT_MAX;
+            }
+        }
+        res=nums[0]==INT_MAX?res:nums[0]+res;
+        return res;
     }
 };
