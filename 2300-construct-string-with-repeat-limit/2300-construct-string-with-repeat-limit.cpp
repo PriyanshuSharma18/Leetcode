@@ -1,43 +1,31 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
-    string repeatLimitedString(string s, int repeatLimit) {
-        sort(s.rbegin(), s.rend());
-
+    string repeatLimitedString(string s, int k) {
+        vector<int> freq(26, 0);
+        for (char c : s) freq[c - 'a']++;
+        
+        priority_queue<pair<char, int>> pq;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) pq.push({'a' + i, freq[i]});
+        }
+        
         string result;
-        int freq = 1;
-        int pointer = 0;
+        while (!pq.empty()) {
+            auto [ch, count] = pq.top(); pq.pop();
+            int used = min(k, count);
+            result.append(used, ch);
+            count -= used;
 
-        for (int i = 0; i < s.size(); ++i) {
-            if (!result.empty() && result.back() == s[i]) {
-                if (freq < repeatLimit) {
-                    result += s[i];
-                    freq++;
-                } else {
-                    pointer = max(pointer, i + 1);
-                    while (pointer < s.size() && s[pointer] == s[i]) {
-                        pointer++;
-                    }
+            if (count > 0) {
+                if (pq.empty()) break;
+                auto [nextCh, nextCount] = pq.top(); pq.pop();
+                result += nextCh;
+                nextCount--;
 
-                    if (pointer < s.size()) {
-                        result += s[pointer];
-                        swap(s[i], s[pointer]);
-                        freq = 1;
-                    } else {
-                        break;
-                    }
-                }
-            } else {
-                result += s[i];
-                freq = 1;
+                if (nextCount > 0) pq.push({nextCh, nextCount});
+                pq.push({ch, count});
             }
         }
-
         return result;
     }
 };
