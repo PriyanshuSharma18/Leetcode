@@ -1,35 +1,32 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
         queue<TreeNode*> q;
         q.push(root);
-        bool reversed=0;
-        while(!q.empty()){
-            int qz=q.size();
-            vector<TreeNode*> arr(qz);
-            for(int i=0; i<qz; i++){
-                auto Node=q.front();
-                q.pop();
-                if (Node->left) q.push(Node->left);
-                if (Node->right) q.push(Node->right);
-                if (reversed){
-                    arr[i]=Node;
-                    if (i>=qz/2) 
-                        swap(arr[i]->val, arr[qz-1-i]->val); 
+        bool flag = false;  // Flag to track odd levels
+        while (!q.empty()) {
+            int sz = (int)q.size();  // Number of nodes at the current level
+            vector<TreeNode*> v;
+            // Traverse the current level
+            for (int i = 0; i < sz; i++) {
+                if (q.front() == NULL) {
+                    q.pop();
+                    continue;
+                }
+                v.push_back(q.front());  // Collect nodes of this level
+                q.push(q.front()->left);  // Add left child
+                q.push(q.front()->right); // Add right child
+                q.pop();  // Remove processed node
+            }
+            // Reverse the nodes at odd levels
+            if (flag) {
+                int L = 0, R = (int)v.size() - 1;
+                while (L <= R) {
+                    swap(v[L++]->val, v[R--]->val);  // Swap values
                 }
             }
-            reversed=!reversed;
+            flag = (!flag);  // Toggle flag for the next level
         }
         return root;
     }
