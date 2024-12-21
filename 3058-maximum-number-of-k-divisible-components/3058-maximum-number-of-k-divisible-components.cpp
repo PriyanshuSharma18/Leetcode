@@ -1,48 +1,37 @@
 class Solution {
 public:
-    #define ll long long
-    void getSubtree(int node, vector<vector<int>>& adj, int par, vector<ll>& subtree){
-        if(adj[node].size() == 1 && adj[node][0] == par){
-            return;
-        }
-        for(auto it: adj[node]){
-            if(it!=par){
-                getSubtree(it, adj, node, subtree);
-                subtree[node]+=subtree[it];
-            }
-        }
-    }
-    int cnt = 0;
-    void dfs(int node, vector<vector<int>>& adj, int par, vector<ll>& subtree, int k){
-        if(adj[node].size() == 1 && adj[node][0] == par){
-            return;
-        }
-        for(auto it: adj[node]){
-            if(it!=par){
-                ll parSubtree = subtree[node] - subtree[it];
-                ll childSubtree = subtree[it];
-                if(parSubtree%k == 0 && childSubtree%k == 0){
-                    cnt++;
-                    subtree[node]-=subtree[it];
-                }
-                else subtree[it] = subtree[node];
-                dfs(it, adj, node, subtree, k);
-            }
-        }
-    }
     int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-        vector<vector<int>> adj(n+1);
-        for(auto it: edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+
+        // step 1: creating adjacency list from edges
+        vector<vector<int>>adj(n);
+        for(auto edge:edges){
+            int node1=edge[0];
+            int node2=edge[1];
+            adj[node1].push_back(node2);
+            adj[node2].push_back(node1);
         }
-        vector<ll> subtree;
-        for(auto it: values){
-            subtree.push_back(it*1LL);
+
+        int cnt=0; // counter for component
+
+        // step 2: start dfs traversal from node 0
+        dfs(0,-1,adj,values,k,cnt);
+        return cnt;
+        
+    }
+    int dfs(int currnode,int parentnode,vector<vector<int>>& adj,vector<int>& values, int k,int& cnt){
+        int sum=0; //sum for current subtree
+
+        // traverse all neighbors
+        for(auto neighbor:adj[currnode] ){
+            if(neighbor !=parentnode){
+                sum+=dfs(neighbor,currnode,adj,values,k, cnt);
+                sum=sum%k;
+            }
+
         }
-        getSubtree(0, adj, -1, subtree);
-        for(auto it: subtree) cout<< it <<" ";
-        dfs(0, adj, -1, subtree, k);
-        return cnt+1;
+        sum+=values[currnode];
+        sum%=k;
+        if(sum==0)cnt++;
+        return sum;
     }
 };
