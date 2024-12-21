@@ -1,37 +1,23 @@
 class Solution {
 public:
-    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-
-        // step 1: creating adjacency list from edges
-        vector<vector<int>>adj(n);
-        for(auto edge:edges){
-            int node1=edge[0];
-            int node2=edge[1];
-            adj[node1].push_back(node2);
-            adj[node2].push_back(node1);
+    vector<vector<int>> g;
+    pair<int, int> dfs(int pre, int cur, vector<int> &values, int k) {
+        pair<int, int> res = {values[cur] % k, 0};
+        for (auto &x: g[cur]) {
+            if (x == pre) continue;
+            auto [cnt, pairs] = dfs(cur, x, values, k);
+            res.first = (res.first + cnt) % k;
+            res.second += pairs;
         }
-
-        int cnt=0; // counter for component
-
-        // step 2: start dfs traversal from node 0
-        dfs(0,-1,adj,values,k,cnt);
-        return cnt;
-        
+        if (res.first == 0) res.second += 1;
+        return res;
     }
-    int dfs(int currnode,int parentnode,vector<vector<int>>& adj,vector<int>& values, int k,int& cnt){
-        int sum=0; //sum for current subtree
-
-        // traverse all neighbors
-        for(auto neighbor:adj[currnode] ){
-            if(neighbor !=parentnode){
-                sum+=dfs(neighbor,currnode,adj,values,k, cnt);
-                sum=sum%k;
-            }
-
+    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
+        g.resize(n);
+        for (auto &x: edges) {
+            g[x[0]].push_back(x[1]);
+            g[x[1]].push_back(x[0]);
         }
-        sum+=values[currnode];
-        sum%=k;
-        if(sum==0)cnt++;
-        return sum;
+        return dfs(-1, 0, values, k).second;
     }
 };
