@@ -1,23 +1,25 @@
 class Solution {
-public:
-    vector<vector<int>> g;
-    pair<int, int> dfs(int pre, int cur, vector<int> &values, int k) {
-        pair<int, int> res = {values[cur] % k, 0};
-        for (auto &x: g[cur]) {
-            if (x == pre) continue;
-            auto [cnt, pairs] = dfs(cur, x, values, k);
-            res.first = (res.first + cnt) % k;
-            res.second += pairs;
-        }
-        if (res.first == 0) res.second += 1;
-        return res;
+ public:
+  int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
+    int ans = 0;
+    vector<vector<int>> graph(n);
+    for (const vector<int>& edge : edges) {
+      const int u = edge[0];
+      const int v = edge[1];
+      graph[u].push_back(v);
+      graph[v].push_back(u);
     }
-    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-        g.resize(n);
-        for (auto &x: edges) {
-            g[x[0]].push_back(x[1]);
-            g[x[1]].push_back(x[0]);
-        }
-        return dfs(-1, 0, values, k).second;
-    }
+    dfs(graph, 0, -1, values, k, ans);
+    return ans;
+  }
+ private:
+  long dfs(const vector<vector<int>>& graph, int u, int prev, const vector<int>& values, int k, int& ans) {
+    long treeSum = values[u];
+    for (const int v : graph[u])
+      if (v != prev)
+        treeSum += dfs(graph, v, u, values, k, ans);
+    if (treeSum % k == 0)
+      ++ans;
+    return treeSum;
+  }
 };
