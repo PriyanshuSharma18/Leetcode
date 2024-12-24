@@ -1,57 +1,43 @@
 class Solution {
-private:
-    void build(vector<vector<int>>& adj, vector<vector<int>>& edges, int n){
-        for(auto it: edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
-        }
-    }
-    void get(pair<int, int>& p, vector<vector<int>>& adj, int node, int dis, vector<int>& vis){
-        int d = p.second;
-        vis[node] = 1;
-        if(dis>d){
-            p.second = dis;
-            p.first = node;
-        }
-        for(auto it: adj[node]){
-            if(!vis[it]){
-                get(p, adj, it, dis+1, vis);
+public:
+    int dfs(vector<vector<int>>& adj, int node, int parent, int& diameter){
+        int maxD1 = 0, maxD2 = 0;
+
+        for(int nei : adj[node]) {
+            if(nei != parent) {
+                int depth = dfs(adj, nei, node, diameter);
+                if (depth > maxD1) {
+                    maxD2 = maxD1;
+                    maxD1 = depth;
+                } else if (depth > maxD2) {
+                    maxD2 = depth;
+                }
             }
         }
+        diameter = max(diameter, maxD1 + maxD2);
+        return maxD1 + 1; 
     }
-public:
+
+    int treeDiameter(vector<vector<int>>& edges){
+        if (edges.empty()) return 0;
+        int n = edges.size() + 1;
+        vector<vector<int>> adj(n);
+        for (auto& edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
+        }
+        int dia = 0;
+        dfs(adj, 0, -1, dia);
+        return dia;
+    }
+
     int minimumDiameterAfterMerge(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
-        int n = edges1.size()+1;
-        int m = edges2.size()+1;
-        vector<vector<int>> adj1(n), adj2(m);
+        int dia1 = treeDiameter(edges1);
+        int dia2 = treeDiameter(edges2);
 
-        build(adj1, edges1, n);
-        build(adj2, edges2, m);
+        int half1 = (dia1 + 1) / 2;
+        int half2 = (dia2 + 1) / 2;
 
-        //for first tree
-        //this stores the farthest node from node 0, max dist of that node from 0
-        vector<int>vis(n);
-        pair<int, int> p1 = {-1, INT_MIN};
-        get(p1, adj1, 0, 0, vis);
-        //this stores the farthest node from the node farthest from 0, dia
-        vis = vector<int>(n, 0);
-        pair<int, int> p2 = {-1, INT_MIN};
-        get(p2, adj1, p1.first, 0, vis);
-
-        int d1 = p2.second;
-
-        //now for the other tree
-        p1 = {-1, INT_MIN};
-        vis = vector<int>(m, 0);
-        get(p1, adj2, 0, 0, vis);
-        p2 = {-1, INT_MIN};
-        vis = vector<int>(m, 0);
-        get(p2, adj2, p1.first, 0, vis);
-
-        int d2 = p2.second;
-        if(edges1.empty()) d1 = 0;
-        if(edges2.empty()) d2 = 0;
-
-        return max({d1, d2, (d1 + 1) / 2 + (d2 + 1) / 2 + 1});
+        return max({dia1, dia2, half1 + half2 + 1});
     }
 };
