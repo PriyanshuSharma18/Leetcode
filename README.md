@@ -397,6 +397,7 @@ Leetcode solved like a champ❤️🙌
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0724-find-pivot-index) |
@@ -812,6 +813,7 @@ Leetcode solved like a champ❤️🙌
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1063-best-sightseeing-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
