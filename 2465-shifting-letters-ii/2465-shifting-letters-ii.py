@@ -1,22 +1,15 @@
+from typing import List
+
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
         n = len(s)
-        prefixSum = [0] * (n + 1)
-        
+        checked = [0] * (n + 1)  # Difference array for range updates
         for start, end, direction in shifts:
-            value = 1 if direction == 1 else -1
-            prefixSum[start] += value
-            prefixSum[end + 1] -= value
-        
-        for i in range(1, n):
-            prefixSum[i] += prefixSum[i-1]
-            
-        result = list(s)
+            checked[start] += 2 * direction - 1  # +1 for right, -1 for left
+            checked[end + 1] -= 2 * direction - 1  # Reverse the shift after end+1
+        shared = 0
+        s = list(s)  # Convert to list for mutability
         for i in range(n):
-            totalShifts = prefixSum[i]
-            totalShifts = ((totalShifts % 26) + 26) % 26
-            
-            newChar = (ord(s[i]) - ord('a') + totalShifts) % 26
-            result[i] = chr(ord('a') + newChar)
-        
-        return ''.join(result)      
+            shared += checked[i]  # Compute cumulative shifts
+            s[i] = chr(((ord(s[i]) - 97 + shared) % 26) + 97)  # Apply shift with wrap-around
+        return ''.join(s)  # Return final string
