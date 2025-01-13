@@ -225,6 +225,7 @@ Leetcode solved like a champ❤️🙌
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Leetcode solved like a champ❤️🙌
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -577,6 +579,7 @@ Leetcode solved like a champ❤️🙌
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
