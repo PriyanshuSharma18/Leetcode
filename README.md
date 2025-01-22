@@ -472,6 +472,7 @@ Leetcode solved like a champ❤️🙌
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -668,6 +669,7 @@ Leetcode solved like a champ❤️🙌
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -811,6 +813,7 @@ Leetcode solved like a champ❤️🙌
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2089-maximum-matrix-sum) |
