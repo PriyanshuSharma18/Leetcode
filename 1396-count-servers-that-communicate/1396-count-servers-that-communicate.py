@@ -1,5 +1,26 @@
-class Solution:
-    def countServers(self, grid: List[List[int]]) -> int:
-        Rows = [sum(row) for row in grid]
-        Col = [sum(grid[i][j] for i in range(len(grid))) for j in range(len(grid[0]))]
-        return sum(1 for i in range(len(grid)) for j in range(len(grid[0])) if grid[i][j] == 1 and (Rows[i] > 1 or Col[j] > 1))
+class Solution(object):
+    def countServers(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        m, n = len(grid), len(grid[0])
+        row_cnt = [0] * m
+        col_cnt = [0] * n
+
+        # Count servers in each row and column
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    row_cnt[i] += 1
+                    col_cnt[j] += 1
+
+        cnt = 0
+        # Count communicating servers
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    if row_cnt[i] > 1 or col_cnt[j] > 1:
+                        cnt += 1
+
+        return cnt    
