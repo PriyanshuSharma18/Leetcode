@@ -250,6 +250,7 @@ Leetcode solved like a champ❤️🙌
 | [1146-greatest-common-divisor-of-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -469,6 +470,7 @@ Leetcode solved like a champ❤️🙌
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -986,6 +988,7 @@ Leetcode solved like a champ❤️🙌
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -1008,6 +1011,7 @@ Leetcode solved like a champ❤️🙌
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -1023,6 +1027,7 @@ Leetcode solved like a champ❤️🙌
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Union Find
 |  |
 | ------- |
