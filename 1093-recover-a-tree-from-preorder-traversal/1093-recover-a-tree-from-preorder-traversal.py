@@ -1,25 +1,17 @@
 class Solution:
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
-        self.s = traversal
-        self.idx = 0
-        self.level = 0
-        node = TreeNode(-1)
-        self.helper(node, 0)
-        return node.left
+        # make tuples of (depth, value) for each node in tree. reverse to pop starting from root
+        nodes = [(len(node[1]), int(node[2])) for node in re.findall("((-*)(\d+))", traversal)][::-1]
 
-    def helper(self, parent, lvl):
-        while self.idx < len(self.s) and lvl == self.level:
-            num = 0
-            while self.idx < len(self.s) and self.s[self.idx].isdigit():
-                num = num * 10 + int(self.s[self.idx])
-                self.idx += 1
-            node = TreeNode(num)
-            if not parent.left:
-                parent.left = node
-            else:
-                parent.right = node
-            self.level = 0
-            while self.idx < len(self.s) and self.s[self.idx] == '-':
-                self.level += 1
-                self.idx += 1
-            self.helper(node, lvl + 1)
+        def makeTree(depth): 
+            # tree done when nodes empty. if expected depth != current depth then reached leaf
+            if not nodes or depth != nodes[-1][0]: return None 
+
+            # preorder traversal = root - left - right
+            node = TreeNode(nodes.pop()[1]) # pop node and get value
+            node.left = makeTree(depth + 1) # fill in children at depth + 1. 
+            node.right = makeTree(depth + 1)
+
+            return node
+
+        return makeTree(0) # start building tree, returns root
