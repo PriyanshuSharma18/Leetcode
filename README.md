@@ -256,6 +256,7 @@ Leetcode solved like a champ❤️🙌
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -492,6 +493,7 @@ Leetcode solved like a champ❤️🙌
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -976,6 +978,7 @@ Leetcode solved like a champ❤️🙌
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1021,6 +1024,7 @@ Leetcode solved like a champ❤️🙌
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
