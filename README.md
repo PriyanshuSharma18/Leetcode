@@ -180,6 +180,7 @@ Leetcode solved like a champ❤️🙌
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1304-longest-happy-string) |
@@ -975,6 +976,7 @@ Leetcode solved like a champ❤️🙌
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
