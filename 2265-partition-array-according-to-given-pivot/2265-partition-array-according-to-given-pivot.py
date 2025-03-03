@@ -1,22 +1,12 @@
-class Solution(object):
-    def pivotArray(self, nums, pivot):
-        """
-        :type nums: List[int]
-        :type pivot: int
-        :rtype: List[int]
-        """
-        n=len(nums)
-        leftArr=[]
-        rightArr=[]
-        pivCnt=0
+class Solution:
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+        before, after = [], [] # stores nums before and after pivot
 
-        # Traverse the array to count pivot elements and segregate elements
-        for i in range(0, n):
-            if nums[i]==pivot:
-                pivCnt+=1
-            elif nums[i]>pivot:
-                rightArr.append(nums[i])                
-            else:
-                leftArr.append(nums[i])                
-        
-        return leftArr+[pivot]*pivCnt+rightArr
+        for num in nums: # add num to corresponding list, neither if equals pivot
+            if num < pivot:
+                before.append(num)
+            elif num > pivot:
+                after.append(num)
+
+        equal_pivot = len(nums) - len(before) - len(after) # count of nums equal to pivot
+        return before + [pivot] * equal_pivot + after # combine lists, make list for nums equal to pivot
