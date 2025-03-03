@@ -1,20 +1,22 @@
-class Solution:
-    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        result = [0] * len(nums)
-        left = 0
-        right = len(nums) - 1
+class Solution(object):
+    def pivotArray(self, nums, pivot):
+        """
+        :type nums: List[int]
+        :type pivot: int
+        :rtype: List[int]
+        """
+        n=len(nums)
+        leftArr=[]
+        rightArr=[]
+        pivCnt=0
+
+        # Traverse the array to count pivot elements and segregate elements
+        for i in range(0, n):
+            if nums[i]==pivot:
+                pivCnt+=1
+            elif nums[i]>pivot:
+                rightArr.append(nums[i])                
+            else:
+                leftArr.append(nums[i])                
         
-        for i, j in zip(range(len(nums)), range(len(nums) - 1, -1, -1)):
-            if nums[i] < pivot:
-                result[left] = nums[i]
-                left += 1
-            
-            if nums[j] > pivot:
-                result[right] = nums[j]
-                right -= 1
-        
-        while left <= right:
-            result[left] = pivot
-            left += 1
-            
-        return result
+        return leftArr+[pivot]*pivCnt+rightArr
