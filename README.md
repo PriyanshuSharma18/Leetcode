@@ -185,6 +185,7 @@ Leetcode solved like a champ❤️🙌
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -345,6 +346,7 @@ Leetcode solved like a champ❤️🙌
 | [1364-tuple-with-same-product](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1028,6 +1030,7 @@ Leetcode solved like a champ❤️🙌
 | [0643-maximum-average-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1755-defuse-the-bomb) |
