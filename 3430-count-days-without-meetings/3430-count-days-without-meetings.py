@@ -1,19 +1,20 @@
 class Solution:
-    def countDays(self, days: int, meetings: List[List[int]]) -> int:
+    def countDays(self, days: int, meetings: list[list[int]]) -> int:
+        free_days = 0
+        latest_end = 0
+
+        # Sort meetings based on starting times
         meetings.sort()
-        
-        meeting_days_count = 0
-        current_start = current_end = -1
-        
+
         for start, end in meetings:
-            if start > current_end:
-                if current_end != -1:
-                    meeting_days_count += current_end - current_start + 1
-                current_start, current_end = start, end
-            else:
-                current_end = max(current_end, end)
-        
-        if current_end != -1:
-            meeting_days_count += current_end - current_start + 1
-        
-        return days - meeting_days_count
+            # If there's a gap between previous end and current start
+            if start > latest_end + 1:
+                free_days += start - latest_end - 1
+
+            # Extend the latest end to cover merged intervals
+            latest_end = max(latest_end, end)
+
+        # Add remaining days after last meeting ends
+        free_days += days - latest_end
+
+        return free_days
