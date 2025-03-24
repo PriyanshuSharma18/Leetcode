@@ -2,16 +2,18 @@ class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
         meetings.sort()
         
-        merged_meetings = []
-        for meeting in meetings:
-            if not merged_meetings or meeting[0] > merged_meetings[-1][1]:
-                merged_meetings.append(meeting)
-            else:
-                merged_meetings[-1][1] = max(merged_meetings[-1][1], meeting[1])
-        
         meeting_days_count = 0
-        for start, end in merged_meetings:
-            meeting_days_count += end - start + 1
+        current_start = current_end = -1
+        
+        for start, end in meetings:
+            if start > current_end:
+                if current_end != -1:
+                    meeting_days_count += current_end - current_start + 1
+                current_start, current_end = start, end
+            else:
+                current_end = max(current_end, end)
+        
+        if current_end != -1:
+            meeting_days_count += current_end - current_start + 1
         
         return days - meeting_days_count
-        
