@@ -1,13 +1,13 @@
 class Solution:
     def minOperations(self, grid: List[List[int]], x: int) -> int:
-        values = sorted([val for row in grid for val in row])
+        arr = [num for row in grid for num in row]  # Flatten the grid
+        arr.sort()
+        median = arr[len(arr) // 2]  # Find the median
         
-        diff = [abs(val - values[0]) % x for val in values]
-        if any(d != 0 for d in diff):
-            return -1
-        
-        median = values[len(values) // 2]
-        operations = sum(abs(val - median) // x for val in values)
-        
-        return operations
-        
+        # Check if all elements can be transformed
+        for num in arr:
+            if (num - median) % x != 0:
+                return -1  # Impossible case
+
+        # Calculate the minimum number of operations
+        return sum(abs(num - median) // x for num in arr)
