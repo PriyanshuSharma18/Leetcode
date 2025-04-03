@@ -618,6 +618,7 @@ Leetcode solved like a champ❤️🙌
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
