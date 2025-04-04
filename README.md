@@ -350,6 +350,7 @@ Leetcode solved like a champ❤️🙌
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -729,6 +730,7 @@ Leetcode solved like a champ❤️🙌
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -765,6 +767,7 @@ Leetcode solved like a champ❤️🙌
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -803,6 +806,7 @@ Leetcode solved like a champ❤️🙌
 | [0871-keys-and-rooms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -843,6 +847,7 @@ Leetcode solved like a champ❤️🙌
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
