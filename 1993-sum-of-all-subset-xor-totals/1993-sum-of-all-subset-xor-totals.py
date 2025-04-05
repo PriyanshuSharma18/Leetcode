@@ -1,11 +1,10 @@
-class Solution:
-    def subsetXORSum(self, nums: List[int]) -> int:
-        n = len(nums)
-        res = 0
-        for i in range(1 << n):
-            x = 0
-            for j in range(n):
-                if (1 << j) & i:
-                    x ^= nums[j]
-            res += x
-        return res
+class Solution(object):
+    def subsetXORSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        total_xor = 0
+        for num in nums:
+            total_xor |= num  
+        return total_xor * (1 << (len(nums) - 1))  
