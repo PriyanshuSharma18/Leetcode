@@ -477,6 +477,7 @@ Leetcode solved like a champ❤️🙌
 | [0349-intersection-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -1062,6 +1063,7 @@ Leetcode solved like a champ❤️🙌
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
