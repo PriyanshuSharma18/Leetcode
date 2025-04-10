@@ -232,6 +232,7 @@ Leetcode solved like a champ❤️🙌
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -275,6 +276,7 @@ Leetcode solved like a champ❤️🙌
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -1097,6 +1099,7 @@ Leetcode solved like a champ❤️🙌
 | [2562-count-ways-to-build-good-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
