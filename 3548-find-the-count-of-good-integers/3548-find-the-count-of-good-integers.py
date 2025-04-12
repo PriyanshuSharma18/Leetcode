@@ -1,43 +1,43 @@
-class Solution(object):
-    def __init__(self):
-        self.res = 0
-        self.visited = set()
+from math import comb
+from collections import Counter
 
-    def vectorToNumber(self, digits):
-        return int(''.join(map(str, digits)))
+class Solution:
+    def countGoodIntegers(self, n: int, k: int) -> int:
+        base = 10 ** ((n + 1) // 2)
+        encoded_freqs = set()
 
-    def totalPermutations(self, freqMap, total):
-        res = factorial(total)
-        for count in freqMap.values():
-            res //= factorial(count)
-        return res
+        for half in range(base // 10, base):
+            half_str = str(half)
+            full_str = half_str + half_str[:-1][::-1] if n % 2 else half_str + half_str[::-1]
+            num = int(full_str)
+            if num % k == 0:
+                freq = [0] * 10
+                for ch in full_str:
+                    freq[int(ch)] += 1
+                # Encode using base 11
+                encoded = 0
+                for f in freq:
+                    encoded = encoded * 11 + f
+                encoded_freqs.add(encoded)
 
-    def permsWithZero(self, freqMap, total):
-        if freqMap.get(0, 0) == 0:
-            return 0
-        freqMap[0] -= 1
-        res = factorial(total - 1)
-        for count in freqMap.values():
-            res //= factorial(count)
-        return res
+        total = 0
+        for code in encoded_freqs:
+            freq = [0] * 10
+            for i in reversed(range(10)):
+                freq[i] = code % 11
+                code //= 11
 
-    def genPal(self, palin, left, right, divisor, total):
-        if left > right:
-            palinVal = self.vectorToNumber(palin)
-            if palinVal % divisor == 0:
-                freq = Counter(palin)
-                key = tuple(sorted(freq.items()))
-                if key not in self.visited:
-                    self.res += self.totalPermutations(freq, total) - self.permsWithZero(freq.copy(), total)
-                    self.visited.add(key)
-            return
+            rem = n
+            ways = 1
+            for i in range(10):
+                if freq[i] > rem:
+                    ways = 0
+                    break
+                if i == 0:
+                    ways *= comb(rem - 1, freq[i])
+                else:
+                    ways *= comb(rem, freq[i])
+                rem -= freq[i]
+            total += ways
 
-        for dig in range(1 if left == 0 else 0, 10):
-            palin[left] = palin[right] = dig
-            self.genPal(palin, left + 1, right - 1, divisor, total)
-
-    def countGoodIntegers(self, n, k):
-        self.res = 0
-        self.visited.clear()
-        self.genPal([0] * n, 0, n - 1, k, n)
-        return self.res
+        return total
