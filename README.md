@@ -584,6 +584,7 @@ Leetcode solved like a champ❤️🙌
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -666,6 +667,7 @@ Leetcode solved like a champ❤️🙌
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -896,6 +898,7 @@ Leetcode solved like a champ❤️🙌
 | [2164-two-best-non-overlapping-events](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1110,6 +1113,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -1329,11 +1333,13 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
@@ -1357,4 +1363,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
