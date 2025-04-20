@@ -1,7 +1,15 @@
-class Solution(object):
+class Solution:
     def numRabbits(self, answers):
-        mpp = Counter(answers)
-        total = 0
-        for x in mpp:
-            total += ceil(float(mpp[x]) / (x + 1)) * (x + 1)
-        return int(total)
+        answers.sort()
+        res = 0
+        count = 0
+
+        for i in range(len(answers)):
+            if answers[i] == 0:
+                res += 1  
+            elif i == 0 or answers[i] != answers[i - 1] or count == 0:
+                res += answers[i] + 1  
+                count = answers[i]
+            else:
+                count -= 1 
+        return res
