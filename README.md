@@ -264,6 +264,7 @@ Leetcode solved like a champ❤️🙌
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -368,6 +369,7 @@ Leetcode solved like a champ❤️🙌
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
