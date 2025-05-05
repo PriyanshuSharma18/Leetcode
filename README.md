@@ -1114,6 +1114,7 @@ Leetcode solved like a champ❤️🙌
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0806-domino-and-tromino-tiling](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
