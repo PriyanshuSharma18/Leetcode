@@ -1,1 +1,34 @@
-class Solution:minTimeToReach=lambda _,A:next((x[0]for _ in count()if(x:=heappop(h))and((x[1]==n-1 and x[2]==m-1),[(heappush(h,(max(x[0]+1,A[r][c]+1),r,c)),s.add((r,c))) for r,c in[(x[1]+1,x[2]),(x[1]-1,x[2]),(x[1],x[2]+1),(x[1],x[2]-1)]if 0<=r<n and 0<=c<m and (r,c)not in s])[0]), ((n:=len(A)),(m:=len(A[0])),(s:={(0,0)}),(h:=[(0,0,0)])))
+class Solution:
+    def minTimeToReach(self, moveTime: List[List[int]]) -> int:
+        R, C = len(moveTime), len(moveTime[0])
+
+        def isOutside(i, j):
+            return i < 0 or i >= R or j < 0 or j >= C
+
+        def idx(i, j):
+            return i * C + j
+
+        N = R * C
+        time = [2**31] * N
+        pq = [0]
+
+        time[0] = 0
+        while len(pq):
+            tij = heappop(pq)
+            t, ij = tij >> 32, tij & ((1 << 30) - 1)
+            i, j = divmod(ij, C)
+            if i == R - 1 and j == C - 1:
+                return t
+
+            for di, dj in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
+                r, s = i + di, j + dj
+                if isOutside(r, s):
+                    continue
+
+                nextTime=max(t, moveTime[r][s])+1
+
+                rs = idx(r, s)
+                if nextTime < time[rs]:
+                    time[rs] = nextTime
+                    heappush(pq, (nextTime << 32) + rs)
+        return -1
