@@ -1,0 +1,1 @@
+class Solution:minTimeToReach=lambda _,A:next((x[0]for _ in count()if(x:=heappop(h))and((x[1]==n-1 and x[2]==m-1),[(heappush(h,(max(x[0]+1,A[r][c]+1),r,c)),s.add((r,c))) for r,c in[(x[1]+1,x[2]),(x[1]-1,x[2]),(x[1],x[2]+1),(x[1],x[2]-1)]if 0<=r<n and 0<=c<m and (r,c)not in s])[0]), ((n:=len(A)),(m:=len(A[0])),(s:={(0,0)}),(h:=[(0,0,0)])))
