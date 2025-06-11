@@ -245,6 +245,7 @@ Leetcode solved like a champ❤️🙌
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@ Leetcode solved like a champ❤️🙌
 | [3483-alternating-groups-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1229,6 +1231,7 @@ Leetcode solved like a champ❤️🙌
 | [3427-special-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
 | ------- |
@@ -1421,6 +1424,7 @@ Leetcode solved like a champ❤️🙌
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
