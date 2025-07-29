@@ -309,6 +309,7 @@ Leetcode solved like a champ❤️🙌
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -630,6 +631,7 @@ Leetcode solved like a champ❤️🙌
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -946,6 +948,7 @@ Leetcode solved like a champ❤️🙌
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1193,6 +1196,7 @@ Leetcode solved like a champ❤️🙌
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
