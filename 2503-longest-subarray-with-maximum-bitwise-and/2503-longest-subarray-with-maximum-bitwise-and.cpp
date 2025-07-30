@@ -1,23 +1,35 @@
+#include <vector>
+#include <algorithm>
+
 class Solution {
 public:
-    int longestSubarray(vector<int>& nums) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(0);
-        
-        int maxBitwiseAnd = *max_element(nums.begin(),nums.end());
-        int maxi = 1;
-        int count = 0;
-        int i = 0;
-        while(i < nums.size())
-        {
-            if(nums[i] == maxBitwiseAnd)
-            {
-                while(i < nums.size() and nums[i++] == maxBitwiseAnd) count++;
-                maxi = max(maxi,count);
-                count = 0;
-            }
-            else i++;
+    int longestSubarray(std::vector<int>& nums) {
+        if (nums.empty()) {
+            return 0;
         }
-        return maxi;
+
+        // 1. Find the maximum value in the array.
+        int maxVal = 0;
+        for (int num : nums) {
+            if (num > maxVal) {
+                maxVal = num;
+            }
+        }
+        
+        // 2. Find the length of the longest subarray of maxVal.
+        int maxLen = 0;
+        int currentLen = 0;
+        
+        for (int num : nums) {
+            if (num == maxVal) {
+                currentLen++;
+            } else {
+                maxLen = std::max(maxLen, currentLen);
+                currentLen = 0;
+            }
+        }
+        
+        // 3. Final check for a trailing streak.
+        return std::max(maxLen, currentLen);
     }
 };
