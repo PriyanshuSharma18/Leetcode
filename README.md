@@ -265,6 +265,7 @@ Leetcode solved like a champ❤️🙌
 | [0650-2-keys-keyboard](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1163,6 +1164,7 @@ Leetcode solved like a champ❤️🙌
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1479,4 +1481,8 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
