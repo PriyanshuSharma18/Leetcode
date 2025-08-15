@@ -261,6 +261,7 @@ Leetcode solved like a champ❤️🙌
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -302,6 +303,7 @@ Leetcode solved like a champ❤️🙌
 | [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -497,6 +499,7 @@ Leetcode solved like a champ❤️🙌
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
