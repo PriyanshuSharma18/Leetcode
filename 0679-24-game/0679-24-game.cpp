@@ -1,46 +1,44 @@
 class Solution {
     const double EPS = 1e-6;
-
+private:
+    bool valid(double a, double b){
+        return fabs(a + b - 24.0) < EPS | fabs(a - b - 24.0) < EPS | 
+                fabs(a * b-24.0) < EPS | fabs(a / b-24.0) < EPS;
+    }
+    bool valid(double a, double b, double c){
+        return valid(a + b, c) | valid(a - b, c) | valid(a * b, c) | valid(a / b, c) | 
+                valid(a, b + c) | valid(a, b - c) | valid(a, b * c) | valid(a, b / c);
+    }
+    bool permutation(int idx, vector<double>& nums){
+        if(idx == 4){
+            return valid(nums[0] + nums[1], nums[2], nums[3]) |
+                    valid(nums[0], nums[1] + nums[2], nums[3]) |
+                    valid(nums[0], nums[1], nums[2] + nums[3]) |
+                    valid(nums[0] - nums[1], nums[2], nums[3]) |
+                    valid(nums[0], nums[1] - nums[2], nums[3]) |
+                    valid(nums[0], nums[1], nums[2] - nums[3]) |
+                    valid(nums[0] * nums[1], nums[2], nums[3]) |
+                    valid(nums[0], nums[1] * nums[2], nums[3]) |
+                    valid(nums[0], nums[1], nums[2] * nums[3]) |
+                    valid(nums[0] / nums[1], nums[2], nums[3]) |
+                    valid(nums[0], nums[1] / nums[2], nums[3]) |
+                    valid(nums[0], nums[1], nums[2] / nums[3]);
+        }
+        int res = false;
+        unordered_set<int> s;
+        for(int i=idx; i<4 && !res; i++){
+            if(s.count(nums[i])) continue;
+            s.insert(nums[i]);
+            swap(nums[i], nums[idx]);
+            res |= permutation(idx + 1, nums);
+            swap(nums[i], nums[idx]);
+        }
+        return res;
+    }
 public:
     bool judgePoint24(vector<int>& cards) {
         vector<double> nums;
-        for (int n : cards) nums.push_back((double)n);
-        return dfs(nums);
-    }
-
-private:
-    bool dfs(vector<double>& nums) {
-        if (nums.size() == 1) {
-            return fabs(nums[0] - 24.0) < EPS;
-        }
-
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = i+1; j < nums.size(); j++) {
-                if (i == j) continue;
-
-                vector<double> next;
-                for (int k = 0; k < nums.size(); k++) {
-                    if (k != i && k != j) next.push_back(nums[k]);
-                }
-
-                for (double val : compute(nums[i], nums[j])) {
-                    next.push_back(val);
-                    if (dfs(next)) return true;
-                    next.pop_back();
-                }
-            }
-        }
-        return false;
-    }
-
-    vector<double> compute(double a, double b) {
-        vector<double> res;
-        res.push_back(a + b);
-        res.push_back(a - b);
-        res.push_back(b - a);
-        res.push_back(a * b);
-        if (fabs(b) > EPS) res.push_back(a / b);
-        if (fabs(a) > EPS) res.push_back(b / a);
-        return res;
+        for(int c: cards) nums.push_back((double)c);
+        return permutation(0, nums);
     }
 };
