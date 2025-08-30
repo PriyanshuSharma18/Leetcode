@@ -363,6 +363,7 @@ Leetcode solved like a champ❤️🙌
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -514,6 +515,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
@@ -1088,6 +1090,7 @@ Leetcode solved like a champ❤️🙌
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0787-sliding-puzzle) |
