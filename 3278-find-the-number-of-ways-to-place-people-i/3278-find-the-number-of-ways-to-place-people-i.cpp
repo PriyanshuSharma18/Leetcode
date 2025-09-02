@@ -1,29 +1,23 @@
 class Solution {
 public:
-    static bool cmp(vector<int>& p, vector<int>& q){
-        return (p[0]==q[0])?p[1]<q[1]:p[0]>q[0];// order by (x, >)
-    }
+    int numberOfPairs(vector<vector<int>>& points) {
+        sort(points.begin(), points.end(), [](const auto &a, const auto &b) { return a[0] == b[0] ? a[1] > b[1] : a[0] < b[0]; });
 
-    int numberOfPairs(vector<vector<int>>& P) {
-        sort(P.begin(), P.end(), cmp);
-        int n = P.size(), ans = 0;
-        for(int i=0; i<n-1; i++){
-            int y=INT_MAX;
-            for(int j = i+1; j<n; j++){
-                if (P[j][1]>=P[i][1] && y>P[j][1]){
-                    ans++;
-                    y=P[j][1];
+        int res = 0, n = points.size();
+        for (int i = 0; i < n; i++)
+        {
+            int b = points[i][1], last = -1;
+            for (int j = i + 1; j < n; j++)
+            {
+                int a = points[j][1];
+                if (a <= b && a > last)
+                {
+                    last = a;
+                    ++res;
                 }
             }
         }
-        return ans;
+
+        return res;
     }
 };
-
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
