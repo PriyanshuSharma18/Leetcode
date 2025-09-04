@@ -302,6 +302,7 @@ Leetcode solved like a champ❤️🙌
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
