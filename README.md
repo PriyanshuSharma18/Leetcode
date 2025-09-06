@@ -302,6 +302,7 @@ Leetcode solved like a champ❤️🙌
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -335,6 +336,7 @@ Leetcode solved like a champ❤️🙌
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -745,6 +747,7 @@ Leetcode solved like a champ❤️🙌
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
