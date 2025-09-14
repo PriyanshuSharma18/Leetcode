@@ -1,59 +1,55 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
-        unordered_set<string> exactMatchSet(wordlist.begin(), wordlist.end());
-        unordered_map<string, string> caseInsensitiveMap;
-        unordered_map<string, string> vowelInsensitiveMap;
+        static const unordered_set<char> vowels{'A', 'E', 'I', 'O', 'U'};
+        unordered_set<string> words;
+        unordered_map<string, string> capitalWords;
+        unordered_map<string, string> vowelWords;
 
-        auto normalizeVowels = [](const string& word) {
-            string res = word;
-            for (char& c : res) {
-                if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+        for (const auto& word : wordlist) {
+            words.insert(word);
+
+            string upword(word);
+            for (auto& c : upword) {
+                c = toupper(c);
+            }
+            capitalWords.emplace(upword, word);
+
+            for (auto& c : upword) {
+                if (vowels.count(c)) {
                     c = '*';
                 }
             }
-            return res;
-        };
-
-        for (string& word : wordlist) {
-            string lowerWord = word;
-            transform(lowerWord.begin(), lowerWord.end(), lowerWord.begin(), ::tolower);
-
-            if (!caseInsensitiveMap.count(lowerWord)) {
-                caseInsensitiveMap[lowerWord] = word;
-            }
-
-            string vowelNormalized = normalizeVowels(lowerWord);
-            if (!vowelInsensitiveMap.count(vowelNormalized)) {
-                vowelInsensitiveMap[vowelNormalized] = word;
-            }
+            vowelWords.emplace(upword, word);
         }
 
-        vector<string> results;
-        for (string& query : queries) {
-            if (exactMatchSet.count(query)) {
-                results.push_back(query);
+        vector<string> res;
+        for (const auto& query : queries) {
+            if (words.count(query)) {
+                res.push_back(query);
                 continue;
             }
 
-            string lowerQuery = query;
-            transform(lowerQuery.begin(), lowerQuery.end(), lowerQuery.begin(), ::tolower);
-            if (caseInsensitiveMap.count(lowerQuery)) {
-                results.push_back(caseInsensitiveMap[lowerQuery]);
+            string word(query);
+            for (auto& c : word) {
+                c = toupper(c);
+            }
+            if (capitalWords.count(word)) {
+                res.push_back(capitalWords[word]);
                 continue;
             }
 
-            string vowelNormalized = normalizeVowels(lowerQuery);
-            if (vowelInsensitiveMap.count(vowelNormalized)) {
-                results.push_back(vowelInsensitiveMap[vowelNormalized]);
+            for (auto& c : word) {
+                if (vowels.count(c)) {
+                    c = '*';
+                }
+            }
+            if (vowelWords.count(word)) {
+                res.push_back(vowelWords[word]);
                 continue;
             }
-
-            results.push_back(""); // No match
+            res.push_back("");
         }
-        return results;
+        return res;
     }
 };
