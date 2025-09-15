@@ -1,19 +1,34 @@
 class Solution {
 public:
-    int canBeTypedWords(string text, string brokenLetters) {
-        int count = 0;
-        istringstream iss(text);
+    int canBeTypedWords(string text, string brokenLetters){
+        unordered_set<char> st;
+        int cnt = 0;
+
+        for(auto& it : brokenLetters){
+            st.insert(it);
+        }
+
+        stringstream ss(text);
+
         string word;
-        while (iss >> word) {
-            bool canType = true;
-            for (char c : brokenLetters) {
-                if (word.find(c) != string::npos) {
-                    canType = false;
+        vector<string> words;
+
+        while(ss >> word){
+            words.push_back(word);
+        }
+
+        for(auto w: words)
+        {
+            for(char c : w)
+            {
+                if(st.find(c) != st.end())
+                {
+                    cnt++;
                     break;
                 }
             }
-            if (canType) count++;
         }
-        return count;
+
+        return words.size() - cnt;
     }
 };
