@@ -466,6 +466,7 @@ Leetcode solved like a champ❤️🙌
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1363,6 +1364,7 @@ Leetcode solved like a champ❤️🙌
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2429-design-a-food-rating-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -1441,6 +1443,7 @@ Leetcode solved like a champ❤️🙌
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 ## Interactive
 |  |
 | ------- |
@@ -1544,6 +1547,7 @@ Leetcode solved like a champ❤️🙌
 | [2429-design-a-food-rating-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
