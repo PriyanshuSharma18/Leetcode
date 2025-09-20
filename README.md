@@ -471,6 +471,7 @@ Leetcode solved like a champ❤️🙌
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -778,6 +779,7 @@ Leetcode solved like a champ❤️🙌
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1046,6 +1048,7 @@ Leetcode solved like a champ❤️🙌
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 ## String Matching
 |  |
 | ------- |
@@ -1370,6 +1373,7 @@ Leetcode solved like a champ❤️🙌
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1381,6 +1385,7 @@ Leetcode solved like a champ❤️🙌
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1555,6 +1560,7 @@ Leetcode solved like a champ❤️🙌
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
