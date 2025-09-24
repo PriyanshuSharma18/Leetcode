@@ -157,6 +157,7 @@ Leetcode solved like a champ❤️🙌
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -264,6 +265,7 @@ Leetcode solved like a champ❤️🙌
 | [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -385,6 +387,7 @@ Leetcode solved like a champ❤️🙌
 | [0036-valid-sudoku](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
