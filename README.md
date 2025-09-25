@@ -552,6 +552,7 @@ Leetcode solved like a champ❤️🙌
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
@@ -1244,6 +1245,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
