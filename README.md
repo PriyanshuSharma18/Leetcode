@@ -604,6 +604,7 @@ Leetcode solved like a champ❤️🙌
 | [1046-max-consecutive-ones-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1275,6 +1276,7 @@ Leetcode solved like a champ❤️🙌
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
