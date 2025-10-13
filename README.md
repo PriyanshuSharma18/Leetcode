@@ -191,6 +191,7 @@ Leetcode solved like a champ❤️🙌
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -427,6 +428,7 @@ Leetcode solved like a champ❤️🙌
 | [1256-rank-transform-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -630,6 +632,7 @@ Leetcode solved like a champ❤️🙌
 | [1325-path-with-maximum-probability](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -838,6 +841,7 @@ Leetcode solved like a champ❤️🙌
 | [0900-reordered-power-of-2](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
