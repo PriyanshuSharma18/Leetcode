@@ -1,30 +1,66 @@
 class Solution {
 public:
     string findLexSmallestString(string s, int a, int b) {
-        unordered_set<string> vis;
-        string smallest = s;
-        queue<string> q;
-        q.push(s);
-        vis.insert(s);
+        vector<int> vec = string2vec(s);
+        vector<int> minVec = string2vec(s);
+        vector<int> buffer (s.size(), 9);
+        buffer.reserve(s.size());
 
-        while (!q.empty()) {
-            string cur = q.front(); q.pop();
-            if (cur < smallest) smallest = cur;
+        vector<int> aOffsets = getOffsets(a, 10);
+        vector<int> bOffsets = getOffsets(b, s.size());
 
-            string added = cur;
-            for (int i = 1; i < added.size(); i += 2)
-                added[i] = ((added[i] - '0' + a) % 10) + '0';
-            if (!vis.count(added)) {
-                vis.insert(added);
-                q.push(added);
+        if (b % 2 == 0) {
+            for (int offset1: aOffsets) {
+                for (int rot: bOffsets) {
+                    applyOperations(vec, {0, offset1}, rot, buffer);
+                    if (buffer < minVec) {minVec.assign(buffer.begin(), buffer.end()); }
+                }
             }
-
-            string rotated = cur.substr(cur.size() - b) + cur.substr(0, cur.size() - b);
-            if (!vis.count(rotated)) {
-                vis.insert(rotated);
-                q.push(rotated);
+        } else {
+            for (int offset0: aOffsets) {
+                for (int offset1: aOffsets) {
+                    for (int rot: bOffsets) {
+                        applyOperations(vec, {offset0, offset1}, rot, buffer);
+                        if (buffer < minVec) {minVec.assign(buffer.begin(), buffer.end()); }
+                    }
+                }
             }
         }
-        return smallest;
+
+        return vec2string(minVec);
+    }
+private:
+    static constexpr int SEEN = 1;
+    static constexpr int NOT_SEEN = 0;
+    
+    static vector<int> getOffsets(int step, int modulo) {
+        vector<int> answer = {0};
+        vector<int> seen (modulo, NOT_SEEN);
+        int value = step % modulo;
+        
+        while (seen[value] == NOT_SEEN) {
+            answer.push_back(value);
+            seen[value] = SEEN;
+            value = (value + step) % modulo;
+        }
+
+        return answer;
+    }
+    static vector<int> string2vec(const string& s) {
+        vector<int> answer (s.size(), 0);
+        for (int i = 0; i < s.size(); ++i) {answer[i] = s[i] - '0'; }
+        return answer;
+    }
+
+    static string vec2string(const vector<int>& vec) {
+        string s = "";
+        s.reserve(vec.size());
+        for (int v: vec) {s += (v + '0'); }
+        return s;
+    }
+
+    static void applyOperations(const vector<int>& vec, const vector<int>& offsets, int rot, vector<int>& buffer) {
+        for (int i = 0; i < vec.size(); ++i) {buffer[i] = (vec[i] + offsets[i % 2]) % 10; }
+        if (rot != 0) {rotate(buffer.begin(), buffer.begin() + rot, buffer.end()); }
     }
 };
