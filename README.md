@@ -812,6 +812,7 @@ Leetcode solved like a champ❤️🙌
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -890,6 +891,7 @@ Leetcode solved like a champ❤️🙌
 | [3430-count-days-without-meetings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -1112,6 +1114,7 @@ Leetcode solved like a champ❤️🙌
 | [3427-special-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1402,6 +1405,7 @@ Leetcode solved like a champ❤️🙌
 | [3483-alternating-groups-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -1434,6 +1438,7 @@ Leetcode solved like a champ❤️🙌
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
