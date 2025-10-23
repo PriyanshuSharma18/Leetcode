@@ -258,6 +258,7 @@ Leetcode solved like a champ❤️🙌
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -327,6 +328,7 @@ Leetcode solved like a champ❤️🙌
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -397,6 +399,7 @@ Leetcode solved like a champ❤️🙌
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
@@ -1587,6 +1590,7 @@ Leetcode solved like a champ❤️🙌
 | [2716-prime-subtraction-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1613,6 +1617,7 @@ Leetcode solved like a champ❤️🙌
 | [2324-find-triangular-sum-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
