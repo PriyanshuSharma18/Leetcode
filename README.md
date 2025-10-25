@@ -300,6 +300,7 @@ Leetcode solved like a champ❤️🙌
 | [1500-count-largest-group](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2050-count-good-numbers) |
