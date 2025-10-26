@@ -385,6 +385,7 @@ Leetcode solved like a champ❤️🙌
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -462,6 +463,7 @@ Leetcode solved like a champ❤️🙌
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -707,6 +709,7 @@ Leetcode solved like a champ❤️🙌
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2169-simple-bank-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1468,6 +1471,7 @@ Leetcode solved like a champ❤️🙌
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2023-design-movie-rental-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
