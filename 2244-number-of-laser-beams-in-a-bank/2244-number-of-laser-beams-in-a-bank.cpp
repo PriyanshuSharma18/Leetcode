@@ -1,19 +1,32 @@
 class Solution {
 public:
+    int countChar(std::string_view str, char target)
+    {
+        int res {0};
+        for (const char c : str)
+        {
+            if (c == target)
+                res++;
+        }
+        return res;
+    }
+
     int numberOfBeams(vector<string>& bank) {
-        int ans = 0, p = 0;
-        for(auto b: bank){
-            int c = 0;
-            for(int j = 0; j < b.size(); j++){
-                if(b[j] == '1'){
-                    c++;
-                }
-            }
-            if(c > 0){
-                ans += p * c;
-                p = c;
+        int res {0};
+        int last {0};
+        int curr {0}; 
+
+        for (const std::string_view str : bank)
+        {
+            curr = countChar(str, '1');
+
+            if (curr != 0)
+            { 
+                res += last * curr;
+                last = curr;
             }
         }
-        return ans;
+
+        return res;
     }
 };
