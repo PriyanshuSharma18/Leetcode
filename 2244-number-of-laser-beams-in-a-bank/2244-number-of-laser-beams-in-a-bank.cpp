@@ -1,32 +1,25 @@
 class Solution {
 public:
-    int countChar(std::string_view str, char target)
-    {
-        int res {0};
-        for (const char c : str)
-        {
-            if (c == target)
-                res++;
-        }
-        return res;
-    }
-
     int numberOfBeams(vector<string>& bank) {
-        int res {0};
-        int last {0};
-        int curr {0}; 
-
-        for (const std::string_view str : bank)
-        {
-            curr = countChar(str, '1');
-
-            if (curr != 0)
-            { 
-                res += last * curr;
-                last = curr;
+        int totalBeams = 0;
+        int prevDeviceCount = 0;
+        
+        // Iterate through each row of the bank
+        for (const string& row : bank) {
+            int currentDeviceCount = 0;
+            
+            // Count security devices ('1's) in current row
+            for (char cell : row) {
+                currentDeviceCount += cell & 1;  // Bit trick: '1' & 1 = 1, '0' & 1 = 0
+            }
+            
+            // If current row has devices, calculate beams with previous row
+            if (currentDeviceCount > 0) {
+                totalBeams += prevDeviceCount * currentDeviceCount;
+                prevDeviceCount = currentDeviceCount;
             }
         }
-
-        return res;
+        
+        return totalBeams;
     }
 };
