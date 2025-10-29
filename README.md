@@ -331,6 +331,7 @@ Leetcode solved like a champ❤️🙌
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3830-find-closest-person) |
@@ -368,6 +369,7 @@ Leetcode solved like a champ❤️🙌
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
