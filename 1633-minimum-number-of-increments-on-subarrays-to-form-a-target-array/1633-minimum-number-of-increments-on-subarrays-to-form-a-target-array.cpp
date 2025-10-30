@@ -1,14 +1,9 @@
 class Solution {
 public:
-    static int minNumberOperations(vector<int>& target) {
-        adjacent_difference(target.begin(), target.end(), target.begin());
-        return accumulate(target.begin(), target.end(), 0,
-        [](int sum, int x){ return sum+=max(0,x);});
+    int minNumberOperations(vector<int>& target) {
+        int count = target[0];
+        for (int i = 1; i < target.size(); i++)
+            count += max(target[i] - target[i - 1], 0);
+        return count;
     }
 };
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
