@@ -1,19 +1,27 @@
 class Solution {
 public:
-    int minCost(string colors, vector<int>& neededTime) {
-        int n = colors.size(), sum = 0;
-        
-        for (int i = 1; i < n; i++) {
-            int maxi = 0; // largest value balloon in substring
-            while (i < n and colors[i] == colors[i - 1]) {
-                sum += neededTime[i - 1];
-                maxi = max(maxi, neededTime[i - 1]);
-                ++i;
+    static int minCost(string& colors, vector<int>& neededTime) {
+        int l=0, r;
+        const int n=colors.size();
+        int removes=0, locMax=0;
+        for (r=0; r<n; ) {
+            while (r<n && colors[r]==colors[l]) {
+                removes+=neededTime[r];
+                locMax=max(locMax, neededTime[r]);
+                r++;
             }
-            sum += neededTime[i - 1];
-            maxi = max(maxi, neededTime[i - 1]);
-            if (maxi != 0) sum -= maxi;
+        //    cout << "l=" << l << " locMax=" << locMax << endl;
+            removes-= locMax;
+            locMax=0;
+            l=r; 
         }
-        return sum;
+        return  removes;
     }
 };
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
