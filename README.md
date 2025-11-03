@@ -201,6 +201,7 @@ Leetcode solved like a champ❤️🙌
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -682,6 +683,7 @@ Leetcode solved like a champ❤️🙌
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -1206,6 +1208,7 @@ Leetcode solved like a champ❤️🙌
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1372,6 +1375,7 @@ Leetcode solved like a champ❤️🙌
 | [1628-count-submatrices-with-all-ones](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
