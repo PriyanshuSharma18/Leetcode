@@ -1,23 +1,21 @@
 class Solution {
 public:
-    static int minCost(string& colors, vector<int>& neededTime) {
-        int l=0, r;
+    int minCost(string& colors, vector<int>& neededTime) {
         const int n=colors.size();
-        int removes=0, locMax=0;
-        for (r=0; r<n; ) {
-            while (r<n && colors[r]==colors[l]) {
-                removes+=neededTime[r];
-                locMax=max(locMax, neededTime[r]);
-                r++;
-            }
-        //    cout << "l=" << l << " locMax=" << locMax << endl;
-            removes-= locMax;
-            locMax=0;
-            l=r; 
+        int removes=0;
+        int locMax=neededTime[0], sum=neededTime[0];
+        for (int r=1; r<n; r++) {
+            const int x=neededTime[r];
+            const bool sameColor=colors[r]==colors[r-1];
+            removes+=(sum-locMax)&(-!sameColor);
+            sum=x+(sum & -sameColor);
+            locMax=max((locMax & -sameColor), x); 
         }
-        return  removes;
+        removes+=sum-locMax; //last group
+        return removes;
     }
 };
+
 auto init = []()
 { 
     ios::sync_with_stdio(0);
