@@ -520,6 +520,7 @@ Leetcode solved like a champ❤️🙌
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -862,6 +863,7 @@ Leetcode solved like a champ❤️🙌
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
@@ -1198,6 +1200,7 @@ Leetcode solved like a champ❤️🙌
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -1250,6 +1253,7 @@ Leetcode solved like a champ❤️🙌
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -1664,6 +1668,7 @@ Leetcode solved like a champ❤️🙌
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Combinatorics
 |  |
 | ------- |
