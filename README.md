@@ -168,6 +168,7 @@ Leetcode solved like a champ❤️🙌
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
@@ -612,6 +613,7 @@ Leetcode solved like a champ❤️🙌
 | [0407-trapping-rain-water-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1369,6 +1371,7 @@ Leetcode solved like a champ❤️🙌
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
