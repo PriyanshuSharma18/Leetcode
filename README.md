@@ -685,6 +685,7 @@ Leetcode solved like a champ❤️🙌
 | [1511-count-number-of-teams](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
