@@ -295,6 +295,7 @@ Leetcode solved like a champ❤️🙌
 | [0867-new-21-game](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -449,6 +450,7 @@ Leetcode solved like a champ❤️🙌
 | [0952-word-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
