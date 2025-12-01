@@ -738,6 +738,7 @@ Leetcode solved like a champ❤️🙌
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-grid-game](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -919,6 +920,7 @@ Leetcode solved like a champ❤️🙌
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1158,6 +1160,7 @@ Leetcode solved like a champ❤️🙌
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1261,6 +1264,7 @@ Leetcode solved like a champ❤️🙌
 | [1917-maximum-average-pass-ratio](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
