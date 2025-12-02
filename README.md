@@ -341,6 +341,7 @@ Leetcode solved like a champ❤️🙌
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -525,6 +526,7 @@ Leetcode solved like a champ❤️🙌
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -868,6 +870,7 @@ Leetcode solved like a champ❤️🙌
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1819,6 +1822,7 @@ Leetcode solved like a champ❤️🙌
 | [0830-largest-triangle-area](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Bitmask
 |  |
 | ------- |
