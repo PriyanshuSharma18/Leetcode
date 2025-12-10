@@ -341,6 +341,7 @@ Leetcode solved like a champ❤️🙌
 | [3462-vowels-game-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -863,6 +864,7 @@ Leetcode solved like a champ❤️🙌
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1707,6 +1709,7 @@ Leetcode solved like a champ❤️🙌
 | [2533-bitwise-xor-of-all-pairings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1727,6 +1730,7 @@ Leetcode solved like a champ❤️🙌
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
