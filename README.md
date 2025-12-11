@@ -522,6 +522,7 @@ Leetcode solved like a champ❤️🙌
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -863,6 +864,7 @@ Leetcode solved like a champ❤️🙌
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -959,6 +961,7 @@ Leetcode solved like a champ❤️🙌
 | [3291-find-if-array-can-be-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
