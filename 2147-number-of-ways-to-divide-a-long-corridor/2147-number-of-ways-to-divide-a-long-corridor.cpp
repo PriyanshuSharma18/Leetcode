@@ -1,24 +1,30 @@
 class Solution {
 public:
-    const int mod = 1e9 + 7;
     int numberOfWays(string corridor) {
-        vector<int> pos;
-        for (int i = 0; i < corridor.size(); i++) {
-            if (corridor[i] == 'S') {
-                pos.push_back(i);
+        int mod = 1000000007;
+        int n = corridor.size();
+        int cnt = 0;
+        for(char c : corridor){
+            if(c == 'S') cnt++;
+        }
+        if(cnt == 0 || cnt % 2 != 0) return 0;
+        cnt = 0;
+        long long ans = 1;
+        int i = 0, p = 0; bool flag = false;
+        while(i < n){
+            if(corridor[i] == 'S'){
+                cnt++;
+                if(cnt % 2 == 0){
+                    flag = true;
+                } else if(cnt > 2){
+                    ans = (ans * (p + 1)) % mod;
+                    cnt = 1; flag = false; p = 0;
+                }
+            } else if(flag){
+                p++;
             }
+            i++;
         }
-        
-        if (pos.size() % 2 or pos.size() == 0) {
-            return 0;
-        }
-        
-        long res = 1;
-        for (int i = 2; i < pos.size(); i += 2) {
-            int len_of_gap = pos[i] - pos[i - 1];
-            res = (res * len_of_gap) % mod;
-        }
-
-        return res;
+        return (int)ans;
     }
 };
