@@ -315,6 +315,7 @@ Leetcode solved like a champ❤️🙌
 | [1925-count-square-sum-triples](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -746,6 +747,7 @@ Leetcode solved like a champ❤️🙌
 | [2067-maximum-number-of-points-with-cost](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1458,6 +1460,7 @@ Leetcode solved like a champ❤️🙌
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
