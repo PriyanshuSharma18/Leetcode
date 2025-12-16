@@ -1,75 +1,68 @@
 class Solution {
 public:
-    int N, budget;
-    vector<int> present, future;
-    map<pair<int, int>, vector<int>> dp;
-    unordered_map<int, vector<int>> adj;
+    int B;
 
-    vector<int> dfs (int node, int discount) {
-        auto key = make_pair(node, discount);
-        if (dp.find(key) != dp.end()) {
-            return dp[key];
-        }
-
-        // Case 1: dont take the current node, discount is not considered (discount is 0)
-        vector<int> notTake(budget + 1, 0);
-        for (int childNode: adj[node]) {
-            vector<int> childVec = dfs(childNode, 0);
-            vector<int> temp(budget + 1, 0);
-
-            for (int b = 0; b <= budget; b++) {
-                for (int k = 0; k <= b; k++) {
-                    temp[b] = max(temp[b], notTake[k] + childVec[b - k]);
-                }
+    vector<int> merge(const vector<int>& dp1, const vector<int>& dp2) {
+        vector<int> next(B + 1, -1e9);
+        for (int i = 0; i <= B; i++) {
+            if (dp1[i] < 0) continue;
+            for (int j = 0; i + j <= B; j++) {
+                if (dp2[j] < 0) continue;
+                next[i + j] = max(next[i + j], dp1[i] + dp2[j]);
             }
-
-            notTake = temp;
         }
-
-        // Case 2: take the current node, discount is considered (discount is 1)
-        int price = (discount ? present[node] / 2 : present[node]);
-        int profit = future[node] - price;
-
-        vector<int> take(budget + 1, 0);
-        for (int childNode: adj[node]) {
-            vector<int> childVec = dfs(childNode, 1);
-            vector<int> temp(budget + 1);
-
-            for (int b = 0; b <= budget; b++) {
-                for (int k = 0; k <= b; k++) {
-                    temp[b] = max(temp[b], take[k] + childVec[b - k]);
-                }
-            }
-            
-            take = temp;
-        }
-
-        vector<int> takeProfit(budget + 1, -1e9);
-        vector<int> ans(budget + 1);
-
-        for (int b = 0; b <= budget; b++) {
-            if (b >= price) {
-                takeProfit[b] = profit + take[b - price];
-            }
-
-            ans[b] = max({notTake[b], takeProfit[b], 0});
-        }
-        
-        return dp[key] = ans;
+        return next;
     }
 
-    int maxProfit(int n, vector<int>& _present, vector<int>& _future, vector<vector<int>>& hierarchy, int b) {
-        N = n;
-        present = _present;
-        future = _future;
-        budget = b;
+    void dfs(int u, const vector<vector<int>>& tree, 
+             const vector<int>& present, const vector<int>& future, 
+             vector<vector<vector<int>>>& dp) {
+        
+        vector<int> skipBranch(B + 1, -1e9);
+        vector<int> buyBranch(B + 1, -1e9);
+        
+        skipBranch[0] = 0;
+        buyBranch[0] = 0;
 
-        for (vector<int>& nums: hierarchy) {
-            int u = nums[0] - 1, v = nums[1] - 1;
-            adj[u].push_back(v);
+        for (int v : tree[u]) {
+            dfs(v, tree, present, future, dp);
+            skipBranch = merge(skipBranch, dp[v][0]);
+            buyBranch = merge(buyBranch, dp[v][1]);
         }
 
-        vector<int> ans = dfs(0, 0);
-        return *max_element(ans.begin(), ans.end());
+        for (int parentBought = 0; parentBought <= 1; parentBought++) {
+            int price = parentBought ? present[u] / 2 : present[u];
+            int profit = future[u] - price;
+            
+            vector<int> currentDP = skipBranch;
+            
+            if (price <= B) {
+                for (int b = 0; b <= B - price; b++) {
+                    if (buyBranch[b] > -1e9) {
+                        currentDP[b + price] = max(currentDP[b + price], buyBranch[b] + profit);
+                    }
+                }
+            }
+            dp[u][parentBought] = currentDP;
+        }
+    }
+
+    int maxProfit(int n, vector<int>& present, vector<int>& future, 
+                  vector<vector<int>>& hierarchy, int budget) {
+        B = budget;
+        vector<vector<int>> tree(n);
+        for (auto& edge : hierarchy) {
+            tree[edge[0] - 1].push_back(edge[1] - 1);
+        }
+
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2));
+
+        dfs(0, tree, present, future, dp);
+
+        int ans = 0;
+        for (int b = 0; b <= B; b++) {
+            ans = max(ans, dp[0][0][b]);
+        }
+        return ans;
     }
 };
