@@ -872,6 +872,7 @@ Leetcode solved like a champ❤️🙌
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3583-count-special-triplets) |
@@ -1037,6 +1038,7 @@ Leetcode solved like a champ❤️🙌
 | [2872-maximum-number-of-k-divisible-components](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1085,6 +1087,7 @@ Leetcode solved like a champ❤️🙌
 | [2872-maximum-number-of-k-divisible-components](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1475,6 +1478,7 @@ Leetcode solved like a champ❤️🙌
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
