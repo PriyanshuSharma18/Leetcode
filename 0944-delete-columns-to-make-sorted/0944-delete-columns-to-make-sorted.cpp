@@ -1,16 +1,18 @@
 class Solution {
-    bool isUnsorted(const vector<string>& strs, int j) {
-        for (int i = 1; i < strs.size(); i++)
-            if (strs[i][j] < strs[i - 1][j])
-                return true;
-        return false;
-    }
-
 public:
     int minDeletionSize(vector<string>& strs) {
-        int res = 0;
-        for (int j = 0; j < strs[0].size(); j++)
-            res += isUnsorted(strs, j);
-        return res;
+        int n = strs.size();
+        int m = strs[0].size();
+        int count = 0;
+
+        for (int col = 0; col < m; col++) {
+            for (int row = 0; row < n - 1; row++) {
+                if (strs[row][col] > strs[row + 1][col]) {
+                    count++;
+                    break;
+                }
+            }
+        }
+        return count;
     }
 };
