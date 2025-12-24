@@ -838,6 +838,7 @@ Leetcode solved like a champ❤️🙌
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -967,6 +968,7 @@ Leetcode solved like a champ❤️🙌
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1310,6 +1312,7 @@ Leetcode solved like a champ❤️🙌
 | [2689-rearranging-fruits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3195-separate-black-and-white-balls) |
