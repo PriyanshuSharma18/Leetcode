@@ -1,83 +1,35 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-    using Matrix = vector<vector<long long>>;
+    const int mod = 1e9 + 7;
 
-    vector<vector<int>> states;
+    int solve(int i, int n, int prev1, int prev2, int prev3, vector<vector<vector<vector<int>>>> &dp) {
 
-    void generate_States(int length, int pos, vector<int>& state) {
-        if (pos == length) {
-            states.push_back(state);
-            return;
+        if (i == n) {
+            return 1;
         }
-        for (int color = 1; color <= 3; ++color) {
-            if (pos > 0 && state[pos - 1] == color) continue; // no horizontal same colors
-            state.push_back(color);
-            generate_States(length, pos + 1, state);
-            state.pop_back();
+
+        if (dp[i][prev1 + 1][prev2 + 1][prev3 + 1] != -1) {
+            return dp[i][prev1+1][prev2+1][prev3+1];
         }
-    }
 
-    bool compatible(const vector<int>& a, const vector<int>& b) {
-        for (int i = 0; i < (int)a.size(); ++i) {
-            if (a[i] == b[i]) return false; // no vertical same colors
+        int ans = 0;
+        for (int c1 = 0; c1 < 3; c1++) {
+            for (int c2 = 0; c2 < 3; c2++) {
+                for (int c3 = 0; c3 < 3; c3++) {
+                    if (c1 != c2 && c2 != c3  && c1 != prev1 && c2 != prev2 && c3 != prev3) {
+                        ans = (ans + solve(i + 1, n, c1, c2, c3, dp)) % mod;
+                    }
+                }
+            }
         }
-        return true;
-    }
 
-    Matrix build_Adjacency_Matrix() {
-        int size = (int)states.size();
-        Matrix adjacency_matrix(size, vector<long long>(size, 0));
-        for (int i = 0; i < size; ++i)
-            for (int j = 0; j < size; ++j)
-                if (compatible(states[i], states[j]))
-                    adjacency_matrix[i][j] = 1;
-        return adjacency_matrix;
-    }
-
-    Matrix multiply_Matrices(const Matrix& A, const Matrix& B) {
-        int size = (int)A.size();
-        Matrix ans(size, vector<long long>(size, 0));
-        for (int i = 0; i < size; ++i)
-            for (int j = 0; j < size; ++j)
-                for (int k = 0; k < size; ++k)
-                    ans[i][j] = (ans[i][j] + A[i][k] * B[k][j]) % MOD;
-        return ans;
-    }
-
-    Matrix Matrix_Exponentiation(Matrix A, long long power) {
-        int size = (int)A.size();
-        Matrix result(size, vector<long long>(size, 0));
-        for (int i = 0; i < size; ++i)
-            result[i][i] = 1;
-
-        while (power > 0) {
-            if (power % 2 == 1)
-                result = multiply_Matrices(result, A);
-            A = multiply_Matrices(A, A);
-            power /= 2;
-        }
-        return result;
+        return dp[i][prev1 + 1][prev2 + 1][prev3 + 1] = ans;
     }
 
     int numOfWays(int n) {
-        int length = 3; // number of columns fixed = 3
-        states.clear();
-        vector<int> state;
-        generate_States(length, 0, state); // generate all valid rows of length 3
-
-        Matrix adj = build_Adjacency_Matrix();
-
-        if (n == 1) return (int)states.size();
-
-        Matrix powerMatrix = Matrix_Exponentiation(adj, n - 1);
-
-        long long total = 0;
-        int size = (int)states.size();
-        for (int i = 0; i < size; ++i)
-            for (int j = 0; j < size; ++j)
-                total = (total + powerMatrix[i][j]) % MOD;
-
-        return (int)total;
+        vector<vector<vector<vector<int>>>> dp(n + 1,vector<vector<vector<int>>>( 4, vector<vector<int>>(4, vector<int>(4, -1))));
+                return solve(0,n,-1,-1,-1,dp);
     }
 };
+
+        
