@@ -1041,6 +1041,7 @@ Leetcode solved like a champ❤️🙌
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1083,6 +1084,7 @@ Leetcode solved like a champ❤️🙌
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1175,6 +1177,7 @@ Leetcode solved like a champ❤️🙌
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
