@@ -1,28 +1,40 @@
-// Variant with an extra compute_ans=0 in dfs
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    const int mod=1e9+7;
-    long long ans=INT_MIN, total=0;
-    int dfs(TreeNode* root, bool compute_ans=0){
+     long long totalSum = 0;
+    long long maxProducts = 0;
+    static const int MOD = 1e9 + 7;
+    long long getTotalSum(TreeNode* root) {
         if (!root) return 0;
-        int sum=root->val
-            +dfs(root->left, compute_ans)
-            +dfs(root->right, compute_ans);
-        if (compute_ans) ans=max(ans, (total-sum)*sum);
-        return sum;
+        return root->val + getTotalSum(root->left) + getTotalSum(root->right);
     }
+    long long dfs(TreeNode* root) {
+        if (!root) return 0;
+
+        long long leftSum = dfs(root->left);
+        long long rightSum = dfs(root->right);
+
+        long long subTreeSum = root->val + leftSum + rightSum;
+
+        long long product = subTreeSum * (totalSum - subTreeSum);
+        maxProducts = max(maxProducts, product);
+
+        return subTreeSum;
+    }
+
     int maxProduct(TreeNode* root) {
-        total=dfs(root);
-        dfs(root, 1);
-        return ans%mod;
+        totalSum = getTotalSum(root);
+        dfs(root);
+        return maxProducts % MOD;
     }
 };
-
-
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
