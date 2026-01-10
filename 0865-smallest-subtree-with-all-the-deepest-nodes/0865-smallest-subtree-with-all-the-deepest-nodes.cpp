@@ -1,47 +1,22 @@
+// this version does not use helper function
 class Solution {
 public:
-    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        if (!root) return nullptr;
+    int maxDepth=0;
+    TreeNode* subtreeWithAllDeepest(TreeNode* root, int* depth=NULL, int level=0) {
+        int d0=0;
+        if (!depth) depth=&d0;
 
-        unordered_map<TreeNode*, TreeNode*> parent;
-        queue<TreeNode*> q;
-        q.push(root);
-        parent[root] = nullptr;
-
-        vector<TreeNode*> lastLevel;
-
-        // BFS traversal
-        while (!q.empty()) {
-            int size = q.size();
-            lastLevel.clear();
-
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-                lastLevel.push_back(node);
-
-                if (node->left) {
-                    parent[node->left] = node;
-                    q.push(node->left);
-                }
-                if (node->right) {
-                    parent[node->right] = node;
-                    q.push(node->right);
-                }
-            }
+        if (!root) {
+            *depth=level;
+            maxDepth=max(maxDepth, *depth);
+            return root;
         }
+        int lD=0, rD=0;
+        TreeNode* L=subtreeWithAllDeepest(root->left, &lD, level+1);
+        TreeNode* R=subtreeWithAllDeepest(root->right, &rD, level+1);
 
-        unordered_set<TreeNode*> deepest(lastLevel.begin(), lastLevel.end());
-
-        // Move upward until one node remains
-        while (deepest.size() > 1) {
-            unordered_set<TreeNode*> next;
-            for (auto node : deepest) {
-                next.insert(parent[node]);
-            }
-            deepest = next;
-        }
-
-        return *deepest.begin();
+        *depth=max(lD, rD);
+        if (lD==rD && lD==maxDepth) return root;
+        return (lD>rD)?L:R;
     }
 };
