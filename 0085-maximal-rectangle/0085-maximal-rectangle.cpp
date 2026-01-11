@@ -1,40 +1,34 @@
+short st[201]={-1}, top=0;
 class Solution {
 public:
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        if(matrix.empty() || matrix[0].empty()) return 0;
+    static int maximalRectangle(vector<vector<char>>& matrix) {
+        const unsigned short row=matrix.size(), col=matrix[0].size();
+        if (row==1 && col==1) return matrix[0][0]=='1';
+        unsigned short h[201]={0};//height 
+        int maxArea=0;
 
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+        for(int i=0; i<row; i++){
+            top=0;//stack will not be empty & st[0]=-1
+            for (int j=0; j<=col; j++){
+                // Count the successive '1's & store in h[j]
+                h[j]=(j==col||matrix[i][j]=='0')?0:h[j]+1;
 
-        vector<int> heights(cols, 0);
-        int maxArea = 0;
-
-        for(int i = 0; i < rows; ++i){
-            for(int j = 0; j < cols; ++j){
-                heights[j] = (matrix[i][j] == '1') ? heights[j] + 1 : 0;
+                // monotonic stack has at least element -1
+                while(top>0 && (j==col||h[j]<h[st[top]])){
+                    const int m=st[top--];//pop
+                    const int w=j-st[top]-1;
+                    const int area=h[m]*w;
+                    maxArea=max(maxArea, area);
+                }
+                st[++top]=j;//push
             }
-            maxArea = max(maxArea, largestRectangleArea(heights));
-
-        }
-        return maxArea;
-    }
-private: 
-    int largestRectangleArea(vector<int>& heights){
-        // with single pass monotonic stack
-        stack<int> st;
-        int maxArea = 0;
-        int n = heights.size();
-
-        for(int i = 0; i <= n; ++i){
-            int h = (i == n) ? 0 : heights[i]; // 0 is sentinel value
-            while(!st.empty() && h < heights[st.top()]){
-                int curHeight = heights[st.top()];
-                st.pop();
-                int width = st.empty() ? i : i - st.top() - 1;
-                maxArea = max(maxArea, curHeight * width);
-            }
-            st.push(i);
         }
         return maxArea;
     }
 };
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
