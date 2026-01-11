@@ -631,6 +631,7 @@ Leetcode solved like a champ❤️🙌
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0162-find-peak-element) |
@@ -1260,6 +1261,7 @@ Leetcode solved like a champ❤️🙌
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
@@ -1352,6 +1354,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0036-valid-sudoku](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -1461,6 +1464,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -1777,6 +1781,7 @@ Leetcode solved like a champ❤️🙌
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1002-maximum-width-ramp) |
