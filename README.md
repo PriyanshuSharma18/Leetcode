@@ -528,6 +528,7 @@ Leetcode solved like a champ❤️🙌
 | [2825-minimize-string-length](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2825-minimize-string-length) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -855,6 +856,7 @@ Leetcode solved like a champ❤️🙌
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1875,6 +1877,7 @@ Leetcode solved like a champ❤️🙌
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
