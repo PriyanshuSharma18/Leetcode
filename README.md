@@ -753,6 +753,7 @@ Leetcode solved like a champ❤️🙌
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1387,6 +1388,7 @@ Leetcode solved like a champ❤️🙌
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2035-count-sub-islands) |
@@ -1606,6 +1608,7 @@ Leetcode solved like a champ❤️🙌
 | [1694-make-sum-divisible-by-p](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
