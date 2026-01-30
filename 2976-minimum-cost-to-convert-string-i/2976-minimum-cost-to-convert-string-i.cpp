@@ -1,49 +1,44 @@
-#include <vector>
-#include <string>
-#include <algorithm>
-using namespace std;
-
+// Use Floyd Warshall's algorithm
+int D[26][26];// global variables
 class Solution {
 public:
-    long long minimumCost(string source, string target,
- vector<char>& original, vector<char>& changed, vector<int>& cost) {
-        long long dist[26][26];
-        const long long INF = 1e14;
+    static inline void FW(vector<char>& original, vector<char>& changed, vector<int>& cost){
+        fill(&D[0][0], &D[0][0]+26*26, INT_MAX);
+        const int sz=original.size();
+        for (int i=0; i<sz; i++){
+            int row=original[i]-'a';
+            int col=changed[i]-'a';
+            D[row][col]=min(D[row][col], cost[i]);
+        }
+        for (int i=0; i<26; i++) D[i][i]=0;
 
-        for (int i = 0; i < 26; ++i) {
-            for (int j = 0; j < 26; ++j) {
-                dist[i][j] = (i == j) ? 0 : INF;
+        for(int k=0; k<26; k++)
+            for(int i=0; i<26; i++){
+                if (D[i][k]==INT_MAX) continue;// add this line
+                for(int j=0; j<26; j++)
+                    D[i][j]=min((long long)D[i][j], (long long)D[i][k]+D[k][j]);
             }
+
+    }
+
+    static long long minimumCost(string& source, string& target, vector<char>& original, vector<char>& changed, vector<int>& cost) 
+    {
+        FW(original, changed, cost);
+        const int n=source.size();
+        long long ans=0;
+        for(int i=0; i<n; i++){
+            int row=source[i]-'a';
+            int col=target[i]-'a';
+            if (D[row][col]==INT_MAX) return -1;
+            ans+=D[row][col];
         }
-
-        for (size_t i = 0; i < original.size(); ++i) {
-            int u = original[i] - 'a';
-            int v = changed[i] - 'a';
-            dist[u][v] = min(dist[u][v], (long long)cost[i]);
-        }
-
-        for (int k = 0; k < 26; ++k) {
-            for (int i = 0; i < 26; ++i) {
-                if (dist[i][k] == INF) continue;
-                for (int j = 0; j < 26; ++j) {
-                    if (dist[k][j] != INF) {
-                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
-                    }
-                }
-            }
-        }
-
-        long long totalCost = 0;
-        int n = source.length();
-
-        for (int i = 0; i < n; ++i) {
-            int u = source[i] - 'a';
-            int v = target[i] - 'a';
-            if (u == v) continue;
-            if (dist[u][v] == INF) return -1;
-            totalCost += dist[u][v];
-        }
-
-        return totalCost;
+        return ans;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}(); 
