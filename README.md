@@ -534,6 +534,7 @@ Leetcode solved like a champ❤️🙌
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -875,6 +876,7 @@ Leetcode solved like a champ❤️🙌
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1610,6 +1612,7 @@ Leetcode solved like a champ❤️🙌
 | [2626-count-the-number-of-good-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1769,6 +1772,7 @@ Leetcode solved like a champ❤️🙌
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
