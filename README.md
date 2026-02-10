@@ -558,6 +558,7 @@ Leetcode solved like a champ❤️🙌
 | [3623-count-number-of-trapezoids-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -947,6 +948,7 @@ Leetcode solved like a champ❤️🙌
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -967,6 +969,7 @@ Leetcode solved like a champ❤️🙌
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1678,6 +1681,7 @@ Leetcode solved like a champ❤️🙌
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1900,6 +1904,7 @@ Leetcode solved like a champ❤️🙌
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
