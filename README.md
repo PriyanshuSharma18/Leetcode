@@ -968,6 +968,7 @@ Leetcode solved like a champ❤️🙌
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -1089,6 +1090,7 @@ Leetcode solved like a champ❤️🙌
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1135,6 +1137,7 @@ Leetcode solved like a champ❤️🙌
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1230,6 +1233,7 @@ Leetcode solved like a champ❤️🙌
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1361,6 +1365,7 @@ Leetcode solved like a champ❤️🙌
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1748,6 +1753,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Strongly Connected Component
 |  |
 | ------- |
