@@ -271,6 +271,7 @@ Leetcode solved like a champ❤️🙌
 | [3617-find-the-original-typed-string-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3713-longest-balanced-substring-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -560,6 +561,7 @@ Leetcode solved like a champ❤️🙌
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1692,6 +1694,7 @@ Leetcode solved like a champ❤️🙌
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
