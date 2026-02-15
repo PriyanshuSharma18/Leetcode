@@ -155,6 +155,7 @@ Leetcode solved like a champ❤️🙌
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -286,6 +287,7 @@ Leetcode solved like a champ❤️🙌
 | [0050-powx-n](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -370,6 +372,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
@@ -409,6 +412,7 @@ Leetcode solved like a champ❤️🙌
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0906-walking-robot-simulation) |
