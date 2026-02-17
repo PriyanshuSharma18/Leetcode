@@ -377,6 +377,7 @@ Leetcode solved like a champ❤️🙌
 | [0231-power-of-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1826,6 +1827,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0756-pyramid-transition-matrix) |
