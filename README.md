@@ -379,6 +379,7 @@ Leetcode solved like a champ❤️🙌
 | [0342-power-of-four](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
