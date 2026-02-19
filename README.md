@@ -176,6 +176,7 @@ Leetcode solved like a champ❤️🙌
 | [0592-fraction-addition-and-subtraction](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0664-strange-printer) |
+| [0696-count-binary-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -605,6 +606,7 @@ Leetcode solved like a champ❤️🙌
 | [0443-string-compression](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0868-push-dominoes) |
