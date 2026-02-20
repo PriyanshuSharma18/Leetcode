@@ -180,6 +180,7 @@ Leetcode solved like a champ❤️🙌
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0868-push-dominoes) |
@@ -981,6 +982,7 @@ Leetcode solved like a champ❤️🙌
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -999,6 +1001,7 @@ Leetcode solved like a champ❤️🙌
 | [0719-find-k-th-smallest-pair-distance](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1018-largest-perimeter-triangle) |
