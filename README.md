@@ -1110,6 +1110,7 @@ Leetcode solved like a champ❤️🙌
 | [0904-leaf-similar-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1156,6 +1157,7 @@ Leetcode solved like a champ❤️🙌
 | [0904-leaf-similar-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1253,6 +1255,7 @@ Leetcode solved like a champ❤️🙌
 | [0904-leaf-similar-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/PriyanshuSharma18/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PriyanshuSharma18/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
