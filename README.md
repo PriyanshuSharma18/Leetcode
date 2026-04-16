@@ -577,6 +577,7 @@ Leetcode solved like a champ❤️🙌
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -960,6 +961,7 @@ Leetcode solved like a champ❤️🙌
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1352,6 +1354,7 @@ Leetcode solved like a champ❤️🙌
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/PriyanshuSharma18/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
